@@ -13,6 +13,14 @@
       <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.0.0/Saltabo.zip" sparkle:shortVersionString="1.0.0" sparkle:version="100" type="application/octet-stream" />
     </item>
     <item>
+      <title>1.1.3</title>
+      <pubDate>Wed, 08 Jul 2026 10:23:23 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.1.3/Saltabo.zip" length="2435271" type="application/octet-stream" sparkle:edSignature="kuFJxoRpksem35aiPZ+VMf1V2ghMG+KXY/lvx9YWxwzCtDUiPytV7fAlTOMflOIioyawoL/Tmqol2SJuy/bEDw==" />
+    </item>
+    <item>
       <title>1.1.2</title>
       <pubDate>Tue, 26 May 2026 04:31:23 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
