@@ -6,6 +6,14 @@
     <description>Latest releases for Saltabo</description>
     <language>en</language>
     <item>
+      <title>1.2.1</title>
+      <pubDate>Tue, 14 Jul 2026 09:45:12 +0000</pubDate>
+      <sparkle:version>121</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.2.1/Saltabo.zip" length="3542991" type="application/octet-stream" sparkle:edSignature="OtfkDX3B1l1Pclv+dHPTxRV5Jyte3D0lYneMOC/YNeyu0toIBusennXvzTmBh/YJnHi/Ze9F6rwXHrtrX9i+DA==" />
+    </item>
+    <item>
       <title>1.1.3</title>
       <pubDate>Wed, 08 Jul 2026 10:23:23 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
@@ -16,10 +24,26 @@
     <item>
       <title>1.1.3</title>
       <pubDate>Wed, 08 Jul 2026 10:23:23 +0000</pubDate>
+      <sparkle:version>113</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.1.3/Saltabo.zip" sparkle:shortVersionString="1.1.3" sparkle:version="113" length="2435271" type="application/octet-stream" sparkle:edSignature="kuFJxoRpksem35aiPZ+VMf1V2ghMG+KXY/lvx9YWxwzCtDUiPytV7fAlTOMflOIioyawoL/Tmqol2SJuy/bEDw==" />
+    </item>
+    <item>
+      <title>1.1.3</title>
+      <pubDate>Wed, 08 Jul 2026 10:23:23 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.1.3/Saltabo.zip" length="3418950" type="application/octet-stream" sparkle:edSignature="lU7k+OpAlDEnIFQSYEbrkqN24mpj5pwaB8JPvyaD2VJOFNMSWJYLInpqQM+8gQyEExvKD/WvJJ3+gxR+MaoXDA==" />
+    </item>
+    <item>
+      <title>1.1.2</title>
+      <pubDate>Tue, 26 May 2026 04:31:23 +0000</pubDate>
+      <sparkle:version>112</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.1.2/Saltabo.zip" sparkle:shortVersionString="1.1.2" sparkle:version="112" length="2449091" type="application/octet-stream" sparkle:edSignature="tejDt0miWkW18fY2yP7QB1IzXn6JmKHlwHL7OTbbBmjttt1IhjOZvHzKc8/Hh1wFoKDkhY5IyzTZHtC2eMY4CA==" />
     </item>
     <item>
       <title>1.1.2</title>
