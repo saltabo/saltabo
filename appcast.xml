@@ -6,6 +6,17 @@
     <description>Latest releases for Saltabo</description>
     <language>en</language>
     <item>
+      <title>1.2.5</title>
+      <pubDate>Mon, 12 Oct 2026 16:16:26 +0000</pubDate>
+      <sparkle:version>125</sparkle:version>
+      <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown">### Updates
+- Update prompts now include release notes, so you can see what's new before choosing Install Update, Skip This Version or Remind Me Later.
+</description>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.2.5/Saltabo.zip" length="3972869" type="application/octet-stream" sparkle:edSignature="zyQSI/CHcdzUSVRZ5kuAcKuiUSbieICQ+bmLLTuDTbYDbRtzoXKNJ2GI1P2vD/UBPPWZY2N4WNjt10H90PliDg==" />
+    </item>
+    <item>
       <title>1.2.4</title>
       <pubDate>Mon, 12 Oct 2026 16:06:15 +0000</pubDate>
       <sparkle:version>124</sparkle:version>
