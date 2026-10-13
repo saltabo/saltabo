@@ -6,6 +6,28 @@
     <description>Latest releases for Saltabo</description>
     <language>en</language>
     <item>
+      <title>1.2.8</title>
+      <pubDate>Tue, 13 Oct 2026 09:43:41 +0000</pubDate>
+      <sparkle:version>128</sparkle:version>
+      <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown" xml:lang="en">### New
+- Close buttons: hover a window in the app switcher or in a Dock preview and click × to close it.
+- Choose the key that opens search in the app switcher (Settings → Controls → Open search with). The default is still /.
+
+### Improvements
+- Dock previews sit closer to the Dock.
+</description>
+      <description xml:lang="vi" sparkle:format="markdown">### Mới
+- Nút đóng: rê chuột vào một cửa sổ trong bộ chuyển ứng dụng hoặc trong xem trước trên Dock rồi bấm × để đóng.
+- Chọn phím mở tìm kiếm trong bộ chuyển ứng dụng (Cài đặt → Điều khiển → Mở tìm kiếm bằng phím). Mặc định vẫn là /.
+
+### Cải thiện
+- Xem trước trên Dock nằm sát Dock hơn.
+</description>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.2.8/Saltabo.zip" length="4149409" type="application/octet-stream" sparkle:edSignature="aQDbWJtDlO2JJvSx6873S0YYcDSVfzPNzeQD/vlgw57F5YG1IsZ1rhOuyXK4csvUYekaWoozPGLogjK/5UDDDQ==" />
+    </item>
+    <item>
       <title>1.2.7</title>
       <pubDate>Tue, 13 Oct 2026 07:59:09 +0000</pubDate>
       <sparkle:version>127</sparkle:version>
