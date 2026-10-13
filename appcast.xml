@@ -6,6 +6,46 @@
     <description>Latest releases for Saltabo</description>
     <language>en</language>
     <item>
+      <title>1.2.7</title>
+      <pubDate>Tue, 13 Oct 2026 07:59:09 +0000</pubDate>
+      <sparkle:version>127</sparkle:version>
+      <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown" xml:lang="en">### New
+- Search in the app switcher: press / and type to filter apps and windows by name or title.
+- Keyboard actions in the app switcher: ← → to move, ` to cycle through the selected app's windows, Q to quit, H to hide, M to minimize and W to close a window. Return opens the selection.
+- New "Show list of windows" setting (Settings → Controls) to show every window as its own item.
+- Apps that are hidden or only have minimized windows are badged and dimmed in the switcher.
+
+### Improvements
+- Saltabo is now fully translated in all supported languages, and the menu bar menu follows language changes right away.
+- Window thumbnails are captured with ScreenCaptureKit: sharper and lighter on memory.
+- Dock previews fit on screen when an app has many windows, and load faster.
+- Cleaner Settings layout.
+
+### Fixes
+- Switching to another window of the same app (e.g. a second Chrome window) now brings that exact window to the front.
+- Saltabo keeps checking for updates after the free trial ends, so you always get the latest fixes.
+</description>
+      <description xml:lang="vi" sparkle:format="markdown">### Mới
+- Tìm kiếm trong bộ chuyển ứng dụng: nhấn / rồi gõ để lọc ứng dụng và cửa sổ theo tên hoặc tiêu đề.
+- Phím thao tác trong bộ chuyển: ← → để di chuyển, ` để xoay vòng các cửa sổ của ứng dụng đang chọn, Q để thoát, H để ẩn, M để thu nhỏ và W để đóng cửa sổ. Return để mở mục đang chọn.
+- Cài đặt mới "Hiển thị danh sách cửa sổ" (Cài đặt → Điều khiển) để hiện từng cửa sổ thành một mục riêng.
+- Ứng dụng đang ẩn hoặc chỉ còn cửa sổ thu nhỏ được đánh dấu và làm mờ trong bộ chuyển.
+
+### Cải thiện
+- Saltabo đã được dịch đầy đủ sang mọi ngôn ngữ hỗ trợ, và menu trên thanh menu đổi ngôn ngữ ngay lập tức.
+- Ảnh thu nhỏ cửa sổ được chụp bằng ScreenCaptureKit: nét hơn và tốn ít bộ nhớ hơn.
+- Xem trước trên Dock luôn nằm gọn trong màn hình khi ứng dụng có nhiều cửa sổ, và hiện nhanh hơn.
+- Bố cục Cài đặt gọn gàng hơn.
+
+### Sửa lỗi
+- Chuyển sang cửa sổ khác của cùng một ứng dụng (ví dụ cửa sổ Chrome thứ hai) giờ đưa đúng cửa sổ đó lên trước.
+- Saltabo vẫn kiểm tra cập nhật sau khi hết thời gian dùng thử, để bạn luôn nhận được bản sửa lỗi mới nhất.
+</description>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.2.7/Saltabo.zip" length="4125702" type="application/octet-stream" sparkle:edSignature="MP2DuzYj/3DyCQJfljD4pNwo4WEof6T/Kvun40IGLTcKh3mu8vKBqK/iTghvnehhFqf9tuR0PyzGYgUEcnS3Cw==" />
+    </item>
+    <item>
       <title>1.2.6</title>
       <pubDate>Mon, 12 Oct 2026 16:48:14 +0000</pubDate>
       <sparkle:version>126</sparkle:version>
