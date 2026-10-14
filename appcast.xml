@@ -6,6 +6,22 @@
     <description>Latest releases for Saltabo</description>
     <language>en</language>
     <item>
+      <title>1.2.10</title>
+      <pubDate>Wed, 14 Oct 2026 04:45:34 +0000</pubDate>
+      <sparkle:version>130</sparkle:version>
+      <sparkle:shortVersionString>1.2.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown" xml:lang="en">### Fixes
+- Dock previews and the app switcher no longer show windows you already closed (for example Keychain Access item windows).
+- An app's main window now appears in its Dock preview even when its title is the app's name.
+</description>
+      <description xml:lang="vi" sparkle:format="markdown">### Sửa lỗi
+- Xem trước trên Dock và bộ chuyển ứng dụng không còn hiện các cửa sổ bạn đã đóng (ví dụ cửa sổ mục trong Keychain Access).
+- Cửa sổ chính của ứng dụng giờ hiện trong xem trước trên Dock kể cả khi tiêu đề trùng tên ứng dụng.
+</description>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.2.10/Saltabo.zip" length="4160817" type="application/octet-stream" sparkle:edSignature="P770RdwLbFI2cIHLSFp0oUudeZP728vd2cIzGeMZuN7XgUvYZcD+M95xlwDrJorh8xLZ1Uc8UF/A+vKHXXDQCA==" />
+    </item>
+    <item>
       <title>1.2.9</title>
       <pubDate>Wed, 14 Oct 2026 03:25:09 +0000</pubDate>
       <sparkle:version>129</sparkle:version>
