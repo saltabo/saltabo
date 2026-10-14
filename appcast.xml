@@ -6,6 +6,20 @@
     <description>Latest releases for Saltabo</description>
     <language>en</language>
     <item>
+      <title>1.2.9</title>
+      <pubDate>Wed, 14 Oct 2026 03:25:09 +0000</pubDate>
+      <sparkle:version>129</sparkle:version>
+      <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown" xml:lang="en">### Fixes
+- The Settings window no longer closes when you switch apps with the app switcher or use ⌘ shortcuts; it stays open behind the app you switch to.
+</description>
+      <description xml:lang="vi" sparkle:format="markdown">### Sửa lỗi
+- Cửa sổ Cài đặt không còn tự đóng khi bạn chuyển ứng dụng bằng bộ chuyển hoặc dùng phím tắt ⌘; cửa sổ vẫn mở phía sau ứng dụng bạn chuyển tới.
+</description>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.2.9/Saltabo.zip" length="4148659" type="application/octet-stream" sparkle:edSignature="xJsr8nZOMwbctQvzlIgRgCMZY4A9fEts+XBAGNJo6MeIprGAUqNzvqHqaMMBRx4KXCML4ERs6gGVLH5P+ruLDg==" />
+    </item>
+    <item>
       <title>1.2.8</title>
       <pubDate>Tue, 13 Oct 2026 09:43:41 +0000</pubDate>
       <sparkle:version>128</sparkle:version>
