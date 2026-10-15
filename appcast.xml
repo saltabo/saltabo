@@ -6,6 +6,65 @@
     <description>Latest releases for Saltabo</description>
     <language>en</language>
     <item>
+      <title>1.3.2</title>
+      <pubDate>Thu, 15 Oct 2026 17:48:46 +0000</pubDate>
+      <sparkle:version>133</sparkle:version>
+      <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown" xml:lang="en">### Fixes
+- **Update notes in your language.** When you choose a language in Saltabo, update notes and system dialogs now use it too (after Saltabo restarts).
+- **Minimizing from the switcher** now removes the window from the switcher when minimized windows are hidden, instead of leaving it marked "Minimized". Hiding an app with H works the same way.
+- **Restored windows come back:** if you restore a window while the switcher is open, it reappears in the switcher.
+</description>
+      <description xml:lang="de" sparkle:format="markdown">### Fehlerbehebungen
+- **Update-Hinweise in deiner Sprache.** Wenn du in Saltabo eine Sprache wählst, verwenden Update-Hinweise und Systemdialoge sie jetzt ebenfalls (nach einem Neustart von Saltabo).
+- **Minimieren im Umschalter** entfernt das Fenster jetzt aus dem Umschalter, wenn minimierte Fenster ausgeblendet sind, statt es als „Minimiert“ stehen zu lassen. Das Ausblenden einer App mit H funktioniert genauso.
+- **Wiederhergestellte Fenster kommen zurück:** Stellst du ein Fenster wieder her, während der Umschalter offen ist, erscheint es wieder im Umschalter.
+</description>
+      <description xml:lang="es" sparkle:format="markdown">### Correcciones
+- **Notas de actualización en tu idioma.** Cuando eliges un idioma en Saltabo, las notas de actualización y los diálogos del sistema también lo usan (después de reiniciar Saltabo).
+- **Minimizar desde el selector** ahora quita la ventana del selector cuando las ventanas minimizadas están ocultas, en lugar de dejarla marcada como «Minimizada». Ocultar una app con H funciona igual.
+- **Las ventanas restauradas vuelven:** si restauras una ventana mientras el selector está abierto, vuelve a aparecer en el selector.
+</description>
+      <description xml:lang="fr" sparkle:format="markdown">### Corrections
+- **Notes de mise à jour dans votre langue.** Quand vous choisissez une langue dans Saltabo, les notes de mise à jour et les fenêtres système l’utilisent aussi (après le redémarrage de Saltabo).
+- **Réduire depuis le sélecteur** retire désormais la fenêtre du sélecteur lorsque les fenêtres réduites sont masquées, au lieu de la laisser marquée « Réduite ». Masquer une app avec H fonctionne de la même façon.
+- **Les fenêtres restaurées reviennent :** si vous restaurez une fenêtre pendant que le sélecteur est ouvert, elle réapparaît dans le sélecteur.
+</description>
+      <description xml:lang="it" sparkle:format="markdown">### Correzioni
+- **Note di aggiornamento nella tua lingua.** Quando scegli una lingua in Saltabo, anche le note di aggiornamento e le finestre di dialogo di sistema la usano (dopo il riavvio di Saltabo).
+- **Ridurre dal selettore** ora rimuove la finestra dal selettore quando le finestre ridotte sono nascoste, invece di lasciarla contrassegnata come "Ridotta". Nascondere un’app con H funziona allo stesso modo.
+- **Le finestre ripristinate ritornano:** se ripristini una finestra mentre il selettore è aperto, ricompare nel selettore.
+</description>
+      <description xml:lang="ja" sparkle:format="markdown">### 修正
+- **アップデートノートを選択した言語で表示。** Saltabo で言語を選ぶと、アップデートノートやシステムのダイアログもその言語で表示されるようになりました(Saltabo の再起動後)。
+- **スイッチャーからしまう**と、しまったウインドウを非表示にしている場合はスイッチャーから消えるようになりました(以前は「しまわれた」と表示されたまま残っていました)。H キーでアプリを隠した場合も同様です。
+- **元に戻したウインドウが戻ります:** スイッチャーを開いたままウインドウを元に戻すと、スイッチャーに再び表示されます。
+</description>
+      <description xml:lang="ko" sparkle:format="markdown">### 수정 사항
+- **선택한 언어로 업데이트 안내 표시.** Saltabo에서 언어를 선택하면 업데이트 안내와 시스템 대화상자도 해당 언어로 표시됩니다(Saltabo 재시작 후).
+- **전환기에서 최소화**하면, 최소화된 윈도우를 숨기도록 설정한 경우 이제 전환기에서 사라집니다("최소화됨"으로 표시된 채 남지 않습니다). H 키로 앱을 숨길 때도 마찬가지입니다.
+- **복원한 윈도우가 다시 표시됩니다:** 전환기가 열려 있는 동안 윈도우를 복원하면 전환기에 다시 나타납니다.
+</description>
+      <description xml:lang="pt" sparkle:format="markdown">### Correções
+- **Notas de atualização no seu idioma.** Ao escolher um idioma no Saltabo, as notas de atualização e as caixas de diálogo do sistema também passam a usá-lo (depois de reiniciar o Saltabo).
+- **Minimizar pelo alternador** agora remove a janela do alternador quando as janelas minimizadas estão ocultas, em vez de deixá-la marcada como "Minimizada". Ocultar um app com H funciona da mesma forma.
+- **Janelas restauradas voltam:** se você restaurar uma janela enquanto o alternador estiver aberto, ela volta a aparecer no alternador.
+</description>
+      <description xml:lang="vi" sparkle:format="markdown">### Sửa lỗi
+- **Ghi chú cập nhật theo ngôn ngữ của bạn.** Khi bạn chọn ngôn ngữ trong Saltabo, ghi chú cập nhật và các hộp thoại hệ thống cũng dùng ngôn ngữ đó (sau khi khởi động lại Saltabo).
+- **Thu nhỏ từ switcher** giờ sẽ bỏ cửa sổ khỏi switcher khi đang ẩn cửa sổ đã thu nhỏ, thay vì để lại với nhãn "Đã thu nhỏ". Ẩn ứng dụng bằng phím H cũng tương tự.
+- **Cửa sổ được mở lại sẽ quay về:** nếu bạn mở lại một cửa sổ trong lúc switcher đang mở, cửa sổ đó sẽ xuất hiện lại trong switcher.
+</description>
+      <description xml:lang="zh-Hans" sparkle:format="markdown">### 修复
+- **更新说明使用你选择的语言。** 在 Saltabo 中选择语言后，更新说明和系统对话框也会使用该语言（重新启动 Saltabo 后生效）。
+- **在切换器中最小化**时，如果设置为隐藏已最小化的窗口，该窗口现在会从切换器中移除，而不是标记为“已最小化”留在其中。用 H 键隐藏应用也是如此。
+- **恢复的窗口会重新出现：** 在切换器打开时恢复某个窗口，它会重新显示在切换器中。
+</description>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.3.2/Saltabo.zip" length="4890689" type="application/octet-stream" sparkle:edSignature="bEUPWiqjou6ILvgXdlXWzXu9B2W7Ij44DkW59qmH0VtsqnkZhtqkFvlxAjY8De9z3mE0GNqRkU9uosJGQ/mZDQ==" />
+      <sparkle:criticalUpdate sparkle:version="131" />
+    </item>
+    <item>
       <title>1.3.1</title>
       <pubDate>Thu, 15 Oct 2026 17:18:14 +0000</pubDate>
       <sparkle:version>132</sparkle:version>
