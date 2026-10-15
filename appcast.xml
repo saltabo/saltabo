@@ -6,6 +6,42 @@
     <description>Latest releases for Saltabo</description>
     <language>en</language>
     <item>
+      <title>1.3.0</title>
+      <pubDate>Thu, 15 Oct 2026 04:37:40 +0000</pubDate>
+      <sparkle:version>131</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown" xml:lang="en">### New
+- **Free plan.** When the 14-day trial ends, Saltabo keeps working as a free app switcher instead of locking. Dock previews, search in the switcher, closing and minimizing windows, and excluded apps are Pro features.
+- **Trial reminders.** A notification 3 days before the trial ends and on the last day. The menu bar menu shows how many trial days are left.
+- **Close and minimize buttons** on switcher items and Dock preview thumbnails. With "One item per app", they act on all of the app's windows, and choosing a minimized app brings all its windows back.
+- **Dock preview options:** preview size, distance from the Dock, and showing or hiding window titles.
+- **Reorganized Settings** with new Dock and License tabs. The License tab shows your plan and which Pro features are included.
+
+### Changes
+- Licenses and trials are now verified by the Saltabo server. Activated licenses are checked again automatically and keep working offline for up to 30 days. Existing licenses are carried over; open Saltabo while online within 14 days.
+- The W and M keys no longer close or minimize windows in the switcher; use the new buttons.
+- Minimized windows and windows of hidden apps are no longer shown by default. Turn them back on in Settings &gt; Controls.
+- The menu bar icon is always shown.
+- Clearer wording across Settings.
+</description>
+      <description xml:lang="vi" sparkle:format="markdown">### Mới
+- **Gói miễn phí.** Khi hết 14 ngày dùng thử, Saltabo vẫn hoạt động như một trình chuyển ứng dụng miễn phí thay vì bị khoá. Xem trước trên Dock, tìm kiếm trong switcher, đóng và thu nhỏ cửa sổ, cùng loại trừ ứng dụng là các tính năng Pro.
+- **Nhắc hết hạn dùng thử.** Thông báo 3 ngày trước khi hết hạn và vào ngày cuối. Menu trên thanh menu hiện số ngày dùng thử còn lại.
+- **Nút đóng và thu nhỏ** trên các mục của switcher và ảnh xem trước trên Dock. Ở chế độ "Mỗi ứng dụng một mục", các nút tác động lên tất cả cửa sổ của ứng dụng, và chọn lại một ứng dụng đã thu nhỏ sẽ mở lại tất cả cửa sổ.
+- **Tuỳ chọn xem trước trên Dock:** kích thước, khoảng cách tới Dock, ẩn hoặc hiện tiêu đề cửa sổ.
+- **Sắp xếp lại Cài đặt** với tab Dock và tab Giấy phép mới. Tab Giấy phép hiện gói đang dùng và các tính năng Pro đi kèm.
+
+### Thay đổi
+- Giấy phép và bản dùng thử giờ được máy chủ Saltabo xác minh. Giấy phép đã kích hoạt được tự động kiểm tra lại và vẫn dùng được khi không có mạng tối đa 30 ngày. Giấy phép hiện có được giữ nguyên; hãy mở Saltabo khi có mạng trong vòng 14 ngày.
+- Phím W và M không còn đóng hay thu nhỏ cửa sổ trong switcher; hãy dùng các nút mới.
+- Cửa sổ đã thu nhỏ và cửa sổ của ứng dụng đã ẩn không còn hiện theo mặc định. Có thể bật lại trong Cài đặt &gt; Điều khiển.
+- Biểu tượng trên thanh menu luôn hiển thị.
+- Câu chữ trong Cài đặt rõ ràng hơn.
+</description>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.3.0/Saltabo.zip" length="4872886" type="application/octet-stream" sparkle:edSignature="dbojcM56PhPcfDWFxEiALSIoXs4csulXJlIiD7pLu7NrSwFThsK+9WtQT76dgk9jdTCuRdtSOxP5ZiXxBm/PCA==" />
+    </item>
+    <item>
       <title>1.2.10</title>
       <pubDate>Wed, 14 Oct 2026 04:45:34 +0000</pubDate>
       <sparkle:version>130</sparkle:version>
