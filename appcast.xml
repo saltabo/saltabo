@@ -6,6 +6,115 @@
     <description>Latest releases for Saltabo</description>
     <language>en</language>
     <item>
+      <title>1.3.3</title>
+      <pubDate>Fri, 16 Oct 2026 04:50:21 +0000</pubDate>
+      <sparkle:version>134</sparkle:version>
+      <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown" xml:lang="en">### Improved
+- **Smaller Dock previews by default**, plus a new Extra Large size. Padding, titles and buttons scale with the size you choose (Settings → Dock → Preview size).
+- **Dock previews follow your theme** (light, dark or system), just like the switcher.
+- **Full-screen windows are marked** with a badge in the switcher.
+- **A refreshed switcher panel:** rounder corners, a frosted background and a soft shadow.
+- **The search bar appears instantly**, with a lighter placeholder.
+
+### Fixes
+- Full-screen windows no longer show a minimize button, since macOS cannot minimize them.
+</description>
+      <description xml:lang="de" sparkle:format="markdown">### Verbessert
+- **Kleinere Dock-Vorschauen als Standard**, dazu die neue Größe „Sehr groß“. Abstände, Titel und Tasten passen sich der gewählten Größe an (Einstellungen → Dock → Vorschaugröße).
+- **Dock-Vorschauen folgen deinem Design** (hell, dunkel oder System), genau wie der Umschalter.
+- **Vollbildfenster sind markiert** – mit einem Abzeichen im Umschalter.
+- **Ein aufgefrischtes Umschalter-Fenster:** rundere Ecken, ein Milchglas-Hintergrund und ein weicher Schatten.
+- **Die Suchleiste erscheint sofort**, mit einem dezenteren Platzhalter.
+
+### Fehlerbehebungen
+- Vollbildfenster zeigen keine Minimieren-Taste mehr, da macOS sie nicht minimieren kann.
+</description>
+      <description xml:lang="es" sparkle:format="markdown">### Mejoras
+- **Vistas previas del Dock más pequeñas por defecto**, y un nuevo tamaño Muy grande. Los márgenes, los títulos y los botones se ajustan al tamaño que elijas (Ajustes → Dock → Tamaño de la vista previa).
+- **Las vistas previas del Dock siguen tu tema** (claro, oscuro o del sistema), igual que el selector.
+- **Las ventanas a pantalla completa se marcan** con una insignia en el selector.
+- **Un panel del selector renovado:** esquinas más redondeadas, fondo esmerilado y una sombra suave.
+- **La barra de búsqueda aparece al instante**, con un texto de ejemplo más ligero.
+
+### Correcciones
+- Las ventanas a pantalla completa ya no muestran el botón de minimizar, porque macOS no puede minimizarlas.
+</description>
+      <description xml:lang="fr" sparkle:format="markdown">### Améliorations
+- **Aperçus du Dock plus compacts par défaut**, avec une nouvelle taille Très grand. Les marges, les titres et les boutons s’adaptent à la taille choisie (Réglages → Dock → Taille de l’aperçu).
+- **Les aperçus du Dock suivent votre thème** (clair, sombre ou système), comme le sélecteur.
+- **Les fenêtres en plein écran sont signalées** par un badge dans le sélecteur.
+- **Un panneau de sélecteur repensé :** coins plus arrondis, fond givré et ombre douce.
+- **La barre de recherche s’affiche instantanément**, avec un texte indicatif plus léger.
+
+### Corrections
+- Les fenêtres en plein écran n’affichent plus de bouton de réduction, car macOS ne peut pas les réduire.
+</description>
+      <description xml:lang="it" sparkle:format="markdown">### Miglioramenti
+- **Anteprime del Dock più piccole per impostazione predefinita**, più la nuova dimensione Molto grande. Margini, titoli e pulsanti si adattano alla dimensione scelta (Impostazioni → Dock → Dimensione anteprima).
+- **Le anteprime del Dock seguono il tuo tema** (chiaro, scuro o di sistema), proprio come il selettore.
+- **Le finestre a schermo intero sono contrassegnate** da un badge nel selettore.
+- **Un pannello del selettore rinnovato:** angoli più arrotondati, sfondo smerigliato e un'ombra morbida.
+- **La barra di ricerca appare all'istante**, con un testo segnaposto più leggero.
+
+### Correzioni
+- Le finestre a schermo intero non mostrano più il pulsante di riduzione, perché macOS non può ridurle a icona.
+</description>
+      <description xml:lang="ja" sparkle:format="markdown">### 改善点
+- **Dock プレビューがデフォルトで小さく**なり、新しく「特大」サイズを追加しました。余白、タイトル、ボタンは選んだサイズに合わせて変わります（設定 → Dock → プレビューのサイズ）。
+- **Dock プレビューがテーマに追従**するようになりました（ライト、ダーク、システム）。スイッチャーと同じです。
+- **フルスクリーンのウインドウ**にはスイッチャーでバッジが付くようになりました。
+- **スイッチャーのパネルを刷新：** より丸い角、すりガラスの背景、やわらかい影。
+- **検索バーがすぐに表示**され、プレースホルダーの文字が控えめになりました。
+
+### 修正
+- macOS ではフルスクリーンのウインドウを最小化できないため、最小化ボタンを表示しないようにしました。
+</description>
+      <description xml:lang="ko" sparkle:format="markdown">### 개선 사항
+- **Dock 미리보기가 기본적으로 더 작아졌고**, 새로운 '아주 크게' 크기가 추가되었습니다. 여백, 제목, 버튼이 선택한 크기에 맞춰 조절됩니다(설정 → Dock → 미리보기 크기).
+- **Dock 미리보기가 테마를 따릅니다**(라이트, 다크 또는 시스템). 스위처와 같습니다.
+- **전체 화면 윈도우**는 스위처에서 배지로 표시됩니다.
+- **새로워진 스위처 패널:** 더 둥근 모서리, 반투명 유리 배경, 부드러운 그림자.
+- **검색 막대가 즉시 나타나며**, 안내 문구가 더 가벼워졌습니다.
+
+### 수정 사항
+- macOS에서 전체 화면 윈도우는 최소화할 수 없으므로 더 이상 최소화 버튼을 표시하지 않습니다.
+</description>
+      <description xml:lang="pt" sparkle:format="markdown">### Melhorias
+- **Pré-visualizações do Dock menores por padrão**, além do novo tamanho Muito grande. Margens, títulos e botões se ajustam ao tamanho escolhido (Ajustes → Dock → Tamanho da pré-visualização).
+- **As pré-visualizações do Dock seguem o seu tema** (claro, escuro ou do sistema), assim como o alternador.
+- **Janelas em tela cheia são marcadas** com um selo no alternador.
+- **Um painel do alternador renovado:** cantos mais arredondados, fundo fosco e uma sombra suave.
+- **A barra de busca aparece instantaneamente**, com um texto de exemplo mais leve.
+
+### Correções
+- Janelas em tela cheia não mostram mais o botão de minimizar, já que o macOS não consegue minimizá-las.
+</description>
+      <description xml:lang="vi" sparkle:format="markdown">### Cải thiện
+- **Dock preview mặc định nhỏ gọn hơn**, kèm cỡ Rất lớn mới. Khoảng đệm, tiêu đề và nút thay đổi theo cỡ bạn chọn (Cài đặt → Dock → Kích thước xem trước).
+- **Dock preview đổi màu theo giao diện** (sáng, tối hoặc theo hệ thống), giống switcher.
+- **Cửa sổ toàn màn hình có biểu tượng đánh dấu** trong switcher.
+- **Khung switcher mới:** bo góc tròn hơn, nền mờ kính và đổ bóng nhẹ.
+- **Thanh tìm kiếm hiện ra tức thì**, chữ gợi ý nhẹ hơn.
+
+### Sửa lỗi
+- Cửa sổ toàn màn hình không còn hiện nút thu nhỏ, vì macOS không thu nhỏ được các cửa sổ này.
+</description>
+      <description xml:lang="zh-Hans" sparkle:format="markdown">### 改进
+- **Dock 预览默认更小**，并新增“特大”尺寸。边距、标题和按钮会随所选尺寸缩放（设置 → 程序坞 → 预览大小）。
+- **Dock 预览跟随你的主题**（浅色、深色或跟随系统），与切换器一致。
+- **全屏窗口会在切换器中显示标记**。
+- **焕新的切换器面板：** 更圆的圆角、磨砂背景和柔和的阴影。
+- **搜索栏即时出现**，占位文字更轻。
+
+### 修复
+- 全屏窗口不再显示最小化按钮，因为 macOS 无法将其最小化。
+</description>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.3.3/Saltabo.zip" length="4906255" type="application/octet-stream" sparkle:edSignature="6wypGFfvhK8RWq/4ne93K0IkaIGZrrQtlGmaexASs84mVigkKuygOYnSRuUVo/r+3OKHviiO+NmQiXIVK5A5Dg==" />
+      <sparkle:criticalUpdate sparkle:version="131" />
+    </item>
+    <item>
       <title>1.3.2</title>
       <pubDate>Thu, 15 Oct 2026 17:48:46 +0000</pubDate>
       <sparkle:version>133</sparkle:version>
