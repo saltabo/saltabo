@@ -6,278 +6,103 @@
     <description>Latest releases for Saltabo</description>
     <language>en</language>
     <item>
-      <title>1.3.3</title>
-      <pubDate>Fri, 16 Oct 2026 04:50:21 +0000</pubDate>
-      <sparkle:version>134</sparkle:version>
-      <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+      <title>1.3.4</title>
+      <pubDate>Sat, 17 Oct 2026 14:45:56 +0000</pubDate>
+      <sparkle:version>135</sparkle:version>
+      <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown" xml:lang="en">### Improved
-- **Smaller Dock previews by default**, plus a new Extra Large size. Padding, titles and buttons scale with the size you choose (Settings → Dock → Preview size).
-- **Dock previews follow your theme** (light, dark or system), just like the switcher.
-- **Full-screen windows are marked** with a badge in the switcher.
-- **A refreshed switcher panel:** rounder corners, a frosted background and a soft shadow.
-- **The search bar appears instantly**, with a lighter placeholder.
+      <description sparkle:format="markdown" xml:lang="en">### Important
+- **Required update.** Saltabo now uses a new license server at saltabo.app. Earlier versions can no longer activate or verify licenses, so please update to keep Pro working.
 
-### Fixes
-- Full-screen windows no longer show a minimize button, since macOS cannot minimize them.
-</description>
-      <description xml:lang="de" sparkle:format="markdown">### Verbessert
-- **Kleinere Dock-Vorschauen als Standard**, dazu die neue Größe „Sehr groß“. Abstände, Titel und Tasten passen sich der gewählten Größe an (Einstellungen → Dock → Vorschaugröße).
-- **Dock-Vorschauen folgen deinem Design** (hell, dunkel oder System), genau wie der Umschalter.
-- **Vollbildfenster sind markiert** – mit einem Abzeichen im Umschalter.
-- **Ein aufgefrischtes Umschalter-Fenster:** rundere Ecken, ein Milchglas-Hintergrund und ein weicher Schatten.
-- **Die Suchleiste erscheint sofort**, mit einem dezenteren Platzhalter.
-
-### Fehlerbehebungen
-- Vollbildfenster zeigen keine Minimieren-Taste mehr, da macOS sie nicht minimieren kann.
-</description>
-      <description xml:lang="es" sparkle:format="markdown">### Mejoras
-- **Vistas previas del Dock más pequeñas por defecto**, y un nuevo tamaño Muy grande. Los márgenes, los títulos y los botones se ajustan al tamaño que elijas (Ajustes → Dock → Tamaño de la vista previa).
-- **Las vistas previas del Dock siguen tu tema** (claro, oscuro o del sistema), igual que el selector.
-- **Las ventanas a pantalla completa se marcan** con una insignia en el selector.
-- **Un panel del selector renovado:** esquinas más redondeadas, fondo esmerilado y una sombra suave.
-- **La barra de búsqueda aparece al instante**, con un texto de ejemplo más ligero.
-
-### Correcciones
-- Las ventanas a pantalla completa ya no muestran el botón de minimizar, porque macOS no puede minimizarlas.
-</description>
-      <description xml:lang="fr" sparkle:format="markdown">### Améliorations
-- **Aperçus du Dock plus compacts par défaut**, avec une nouvelle taille Très grand. Les marges, les titres et les boutons s’adaptent à la taille choisie (Réglages → Dock → Taille de l’aperçu).
-- **Les aperçus du Dock suivent votre thème** (clair, sombre ou système), comme le sélecteur.
-- **Les fenêtres en plein écran sont signalées** par un badge dans le sélecteur.
-- **Un panneau de sélecteur repensé :** coins plus arrondis, fond givré et ombre douce.
-- **La barre de recherche s’affiche instantanément**, avec un texte indicatif plus léger.
-
-### Corrections
-- Les fenêtres en plein écran n’affichent plus de bouton de réduction, car macOS ne peut pas les réduire.
-</description>
-      <description xml:lang="it" sparkle:format="markdown">### Miglioramenti
-- **Anteprime del Dock più piccole per impostazione predefinita**, più la nuova dimensione Molto grande. Margini, titoli e pulsanti si adattano alla dimensione scelta (Impostazioni → Dock → Dimensione anteprima).
-- **Le anteprime del Dock seguono il tuo tema** (chiaro, scuro o di sistema), proprio come il selettore.
-- **Le finestre a schermo intero sono contrassegnate** da un badge nel selettore.
-- **Un pannello del selettore rinnovato:** angoli più arrotondati, sfondo smerigliato e un'ombra morbida.
-- **La barra di ricerca appare all'istante**, con un testo segnaposto più leggero.
-
-### Correzioni
-- Le finestre a schermo intero non mostrano più il pulsante di riduzione, perché macOS non può ridurle a icona.
-</description>
-      <description xml:lang="ja" sparkle:format="markdown">### 改善点
-- **Dock プレビューがデフォルトで小さく**なり、新しく「特大」サイズを追加しました。余白、タイトル、ボタンは選んだサイズに合わせて変わります（設定 → Dock → プレビューのサイズ）。
-- **Dock プレビューがテーマに追従**するようになりました（ライト、ダーク、システム）。スイッチャーと同じです。
-- **フルスクリーンのウインドウ**にはスイッチャーでバッジが付くようになりました。
-- **スイッチャーのパネルを刷新：** より丸い角、すりガラスの背景、やわらかい影。
-- **検索バーがすぐに表示**され、プレースホルダーの文字が控えめになりました。
-
-### 修正
-- macOS ではフルスクリーンのウインドウを最小化できないため、最小化ボタンを表示しないようにしました。
-</description>
-      <description xml:lang="ko" sparkle:format="markdown">### 개선 사항
-- **Dock 미리보기가 기본적으로 더 작아졌고**, 새로운 '아주 크게' 크기가 추가되었습니다. 여백, 제목, 버튼이 선택한 크기에 맞춰 조절됩니다(설정 → Dock → 미리보기 크기).
-- **Dock 미리보기가 테마를 따릅니다**(라이트, 다크 또는 시스템). 스위처와 같습니다.
-- **전체 화면 윈도우**는 스위처에서 배지로 표시됩니다.
-- **새로워진 스위처 패널:** 더 둥근 모서리, 반투명 유리 배경, 부드러운 그림자.
-- **검색 막대가 즉시 나타나며**, 안내 문구가 더 가벼워졌습니다.
-
-### 수정 사항
-- macOS에서 전체 화면 윈도우는 최소화할 수 없으므로 더 이상 최소화 버튼을 표시하지 않습니다.
-</description>
-      <description xml:lang="pt" sparkle:format="markdown">### Melhorias
-- **Pré-visualizações do Dock menores por padrão**, além do novo tamanho Muito grande. Margens, títulos e botões se ajustam ao tamanho escolhido (Ajustes → Dock → Tamanho da pré-visualização).
-- **As pré-visualizações do Dock seguem o seu tema** (claro, escuro ou do sistema), assim como o alternador.
-- **Janelas em tela cheia são marcadas** com um selo no alternador.
-- **Um painel do alternador renovado:** cantos mais arredondados, fundo fosco e uma sombra suave.
-- **A barra de busca aparece instantaneamente**, com um texto de exemplo mais leve.
-
-### Correções
-- Janelas em tela cheia não mostram mais o botão de minimizar, já que o macOS não consegue minimizá-las.
-</description>
-      <description xml:lang="vi" sparkle:format="markdown">### Cải thiện
-- **Dock preview mặc định nhỏ gọn hơn**, kèm cỡ Rất lớn mới. Khoảng đệm, tiêu đề và nút thay đổi theo cỡ bạn chọn (Cài đặt → Dock → Kích thước xem trước).
-- **Dock preview đổi màu theo giao diện** (sáng, tối hoặc theo hệ thống), giống switcher.
-- **Cửa sổ toàn màn hình có biểu tượng đánh dấu** trong switcher.
-- **Khung switcher mới:** bo góc tròn hơn, nền mờ kính và đổ bóng nhẹ.
-- **Thanh tìm kiếm hiện ra tức thì**, chữ gợi ý nhẹ hơn.
-
-### Sửa lỗi
-- Cửa sổ toàn màn hình không còn hiện nút thu nhỏ, vì macOS không thu nhỏ được các cửa sổ này.
-</description>
-      <description xml:lang="zh-Hans" sparkle:format="markdown">### 改进
-- **Dock 预览默认更小**，并新增“特大”尺寸。边距、标题和按钮会随所选尺寸缩放（设置 → 程序坞 → 预览大小）。
-- **Dock 预览跟随你的主题**（浅色、深色或跟随系统），与切换器一致。
-- **全屏窗口会在切换器中显示标记**。
-- **焕新的切换器面板：** 更圆的圆角、磨砂背景和柔和的阴影。
-- **搜索栏即时出现**，占位文字更轻。
-
-### 修复
-- 全屏窗口不再显示最小化按钮，因为 macOS 无法将其最小化。
-</description>
-      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.3.3/Saltabo.zip" length="4906255" type="application/octet-stream" sparkle:edSignature="6wypGFfvhK8RWq/4ne93K0IkaIGZrrQtlGmaexASs84mVigkKuygOYnSRuUVo/r+3OKHviiO+NmQiXIVK5A5Dg==" />
-      <sparkle:criticalUpdate sparkle:version="131" />
-    </item>
-    <item>
-      <title>1.3.2</title>
-      <pubDate>Thu, 15 Oct 2026 17:48:46 +0000</pubDate>
-      <sparkle:version>133</sparkle:version>
-      <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown" xml:lang="en">### Fixes
-- **Update notes in your language.** When you choose a language in Saltabo, update notes and system dialogs now use it too (after Saltabo restarts).
-- **Minimizing from the switcher** now removes the window from the switcher when minimized windows are hidden, instead of leaving it marked "Minimized". Hiding an app with H works the same way.
-- **Restored windows come back:** if you restore a window while the switcher is open, it reappears in the switcher.
-</description>
-      <description xml:lang="de" sparkle:format="markdown">### Fehlerbehebungen
-- **Update-Hinweise in deiner Sprache.** Wenn du in Saltabo eine Sprache wählst, verwenden Update-Hinweise und Systemdialoge sie jetzt ebenfalls (nach einem Neustart von Saltabo).
-- **Minimieren im Umschalter** entfernt das Fenster jetzt aus dem Umschalter, wenn minimierte Fenster ausgeblendet sind, statt es als „Minimiert“ stehen zu lassen. Das Ausblenden einer App mit H funktioniert genauso.
-- **Wiederhergestellte Fenster kommen zurück:** Stellst du ein Fenster wieder her, während der Umschalter offen ist, erscheint es wieder im Umschalter.
-</description>
-      <description xml:lang="es" sparkle:format="markdown">### Correcciones
-- **Notas de actualización en tu idioma.** Cuando eliges un idioma en Saltabo, las notas de actualización y los diálogos del sistema también lo usan (después de reiniciar Saltabo).
-- **Minimizar desde el selector** ahora quita la ventana del selector cuando las ventanas minimizadas están ocultas, en lugar de dejarla marcada como «Minimizada». Ocultar una app con H funciona igual.
-- **Las ventanas restauradas vuelven:** si restauras una ventana mientras el selector está abierto, vuelve a aparecer en el selector.
-</description>
-      <description xml:lang="fr" sparkle:format="markdown">### Corrections
-- **Notes de mise à jour dans votre langue.** Quand vous choisissez une langue dans Saltabo, les notes de mise à jour et les fenêtres système l’utilisent aussi (après le redémarrage de Saltabo).
-- **Réduire depuis le sélecteur** retire désormais la fenêtre du sélecteur lorsque les fenêtres réduites sont masquées, au lieu de la laisser marquée « Réduite ». Masquer une app avec H fonctionne de la même façon.
-- **Les fenêtres restaurées reviennent :** si vous restaurez une fenêtre pendant que le sélecteur est ouvert, elle réapparaît dans le sélecteur.
-</description>
-      <description xml:lang="it" sparkle:format="markdown">### Correzioni
-- **Note di aggiornamento nella tua lingua.** Quando scegli una lingua in Saltabo, anche le note di aggiornamento e le finestre di dialogo di sistema la usano (dopo il riavvio di Saltabo).
-- **Ridurre dal selettore** ora rimuove la finestra dal selettore quando le finestre ridotte sono nascoste, invece di lasciarla contrassegnata come "Ridotta". Nascondere un’app con H funziona allo stesso modo.
-- **Le finestre ripristinate ritornano:** se ripristini una finestra mentre il selettore è aperto, ricompare nel selettore.
-</description>
-      <description xml:lang="ja" sparkle:format="markdown">### 修正
-- **アップデートノートを選択した言語で表示。** Saltabo で言語を選ぶと、アップデートノートやシステムのダイアログもその言語で表示されるようになりました(Saltabo の再起動後)。
-- **スイッチャーからしまう**と、しまったウインドウを非表示にしている場合はスイッチャーから消えるようになりました(以前は「しまわれた」と表示されたまま残っていました)。H キーでアプリを隠した場合も同様です。
-- **元に戻したウインドウが戻ります:** スイッチャーを開いたままウインドウを元に戻すと、スイッチャーに再び表示されます。
-</description>
-      <description xml:lang="ko" sparkle:format="markdown">### 수정 사항
-- **선택한 언어로 업데이트 안내 표시.** Saltabo에서 언어를 선택하면 업데이트 안내와 시스템 대화상자도 해당 언어로 표시됩니다(Saltabo 재시작 후).
-- **전환기에서 최소화**하면, 최소화된 윈도우를 숨기도록 설정한 경우 이제 전환기에서 사라집니다("최소화됨"으로 표시된 채 남지 않습니다). H 키로 앱을 숨길 때도 마찬가지입니다.
-- **복원한 윈도우가 다시 표시됩니다:** 전환기가 열려 있는 동안 윈도우를 복원하면 전환기에 다시 나타납니다.
-</description>
-      <description xml:lang="pt" sparkle:format="markdown">### Correções
-- **Notas de atualização no seu idioma.** Ao escolher um idioma no Saltabo, as notas de atualização e as caixas de diálogo do sistema também passam a usá-lo (depois de reiniciar o Saltabo).
-- **Minimizar pelo alternador** agora remove a janela do alternador quando as janelas minimizadas estão ocultas, em vez de deixá-la marcada como "Minimizada". Ocultar um app com H funciona da mesma forma.
-- **Janelas restauradas voltam:** se você restaurar uma janela enquanto o alternador estiver aberto, ela volta a aparecer no alternador.
-</description>
-      <description xml:lang="vi" sparkle:format="markdown">### Sửa lỗi
-- **Ghi chú cập nhật theo ngôn ngữ của bạn.** Khi bạn chọn ngôn ngữ trong Saltabo, ghi chú cập nhật và các hộp thoại hệ thống cũng dùng ngôn ngữ đó (sau khi khởi động lại Saltabo).
-- **Thu nhỏ từ switcher** giờ sẽ bỏ cửa sổ khỏi switcher khi đang ẩn cửa sổ đã thu nhỏ, thay vì để lại với nhãn "Đã thu nhỏ". Ẩn ứng dụng bằng phím H cũng tương tự.
-- **Cửa sổ được mở lại sẽ quay về:** nếu bạn mở lại một cửa sổ trong lúc switcher đang mở, cửa sổ đó sẽ xuất hiện lại trong switcher.
-</description>
-      <description xml:lang="zh-Hans" sparkle:format="markdown">### 修复
-- **更新说明使用你选择的语言。** 在 Saltabo 中选择语言后，更新说明和系统对话框也会使用该语言（重新启动 Saltabo 后生效）。
-- **在切换器中最小化**时，如果设置为隐藏已最小化的窗口，该窗口现在会从切换器中移除，而不是标记为“已最小化”留在其中。用 H 键隐藏应用也是如此。
-- **恢复的窗口会重新出现：** 在切换器打开时恢复某个窗口，它会重新显示在切换器中。
-</description>
-      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.3.2/Saltabo.zip" length="4890689" type="application/octet-stream" sparkle:edSignature="bEUPWiqjou6ILvgXdlXWzXu9B2W7Ij44DkW59qmH0VtsqnkZhtqkFvlxAjY8De9z3mE0GNqRkU9uosJGQ/mZDQ==" />
-      <sparkle:criticalUpdate sparkle:version="131" />
-    </item>
-    <item>
-      <title>1.3.1</title>
-      <pubDate>Thu, 15 Oct 2026 17:18:14 +0000</pubDate>
-      <sparkle:version>132</sparkle:version>
-      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown" xml:lang="en">### Improved
-- **A cleaner switcher.** Each window is now a card with its app icon and title above a rounded preview, and the selected window is outlined in your accent color. Light and dark themes share the same layout, and the dark theme uses a neutral charcoal background.
-- **Bigger previews** in the switcher, closer to the shape of your windows.
-- **Neater close and minimize buttons:** smaller, tucked into the card's corner, crisp and centered, and they no longer cover the window title.
-- **Tighter spacing** in the switcher and the Dock previews.
-</description>
-      <description xml:lang="de" sparkle:format="markdown">### Verbessert
-- **Ein aufgeräumter Umschalter.** Jedes Fenster ist jetzt eine Karte mit App-Symbol und Titel über einer abgerundeten Vorschau; das ausgewählte Fenster wird in deiner Akzentfarbe umrandet. Helles und dunkles Design haben dasselbe Layout, das dunkle Design nutzt einen neutralen anthrazitfarbenen Hintergrund.
-- **Größere Vorschauen** im Umschalter, näher an der Form deiner Fenster.
-- **Schönere Tasten zum Schließen und Minimieren:** kleiner, in der Ecke der Karte, scharf und mittig, und sie verdecken den Fenstertitel nicht mehr.
-- **Kompaktere Abstände** im Umschalter und in den Dock-Vorschauen.
-</description>
-      <description xml:lang="es" sparkle:format="markdown">### Mejoras
-- **Un selector más limpio.** Cada ventana es ahora una tarjeta con el icono de la app y el título sobre una vista previa con esquinas redondeadas, y la ventana seleccionada se resalta con tu color de acento. Los temas claro y oscuro comparten el mismo diseño, y el tema oscuro usa un fondo gris carbón neutro.
-- **Vistas previas más grandes** en el selector, más parecidas a la forma de tus ventanas.
-- **Botones de cerrar y minimizar más cuidados:** más pequeños, en la esquina de la tarjeta, nítidos y centrados, y ya no tapan el título de la ventana.
-- **Espaciado más compacto** en el selector y en las vistas previas del Dock.
-</description>
-      <description xml:lang="fr" sparkle:format="markdown">### Améliorations
-- **Un sélecteur plus épuré.** Chaque fenêtre est désormais une carte, avec l’icône de l’app et le titre au-dessus d’un aperçu aux coins arrondis ; la fenêtre sélectionnée est entourée de votre couleur d’accentuation. Les thèmes clair et sombre partagent la même disposition, et le thème sombre utilise un fond anthracite neutre.
-- **Des aperçus plus grands** dans le sélecteur, plus proches de la forme de vos fenêtres.
-- **Des boutons Fermer et Réduire plus soignés :** plus petits, placés dans le coin de la carte, nets et centrés, et ils ne masquent plus le titre de la fenêtre.
-- **Des espacements plus serrés** dans le sélecteur et les aperçus du Dock.
-</description>
-      <description xml:lang="it" sparkle:format="markdown">### Miglioramenti
-- **Un selettore più pulito.** Ogni finestra ora è una scheda, con l’icona dell’app e il titolo sopra un’anteprima con angoli arrotondati, e la finestra selezionata è evidenziata con il tuo colore di accento. I temi chiaro e scuro condividono lo stesso layout, e il tema scuro usa uno sfondo antracite neutro.
-- **Anteprime più grandi** nel selettore, più vicine alla forma delle tue finestre.
-- **Pulsanti Chiudi e Riduci più curati:** più piccoli, nell’angolo della scheda, nitidi e centrati, e non coprono più il titolo della finestra.
-- **Spaziature più compatte** nel selettore e nelle anteprime del Dock.
-</description>
-      <description xml:lang="ja" sparkle:format="markdown">### 改善点
-- **すっきりしたスイッチャー。** 各ウインドウがカードになり、角の丸いプレビューの上にアプリアイコンとタイトルが並びます。選択中のウインドウはアクセントカラーの枠で表示されます。ライトとダークのテーマは同じレイアウトになり、ダークテーマはニュートラルなチャコールの背景になりました。
-- **スイッチャーのプレビューが大きく**なり、実際のウインドウの形に近くなりました。
-- **閉じる・しまうボタンを改善:** 小さくなってカードの角に配置され、くっきりと中央に表示され、ウインドウのタイトルを隠さなくなりました。
-- スイッチャーと Dock プレビューの**余白を詰めました**。
-</description>
-      <description xml:lang="ko" sparkle:format="markdown">### 개선 사항
-- **더 깔끔해진 전환기.** 이제 각 윈도우가 카드로 표시되며, 둥근 모서리의 미리보기 위에 앱 아이콘과 제목이 놓입니다. 선택한 윈도우는 강조 색상 테두리로 표시됩니다. 라이트와 다크 테마가 같은 레이아웃을 사용하며, 다크 테마는 중성적인 차콜 배경을 사용합니다.
-- 전환기의 **미리보기가 커져** 실제 윈도우 비율에 더 가까워졌습니다.
-- **닫기 및 최소화 버튼 개선:** 더 작아지고 카드 모서리에 배치되며, 선명하게 가운데 정렬되고 더 이상 윈도우 제목을 가리지 않습니다.
-- 전환기와 Dock 미리보기의 **간격이 더 촘촘해졌습니다**.
-</description>
-      <description xml:lang="pt" sparkle:format="markdown">### Melhorias
-- **Um alternador mais limpo.** Cada janela agora é um cartão, com o ícone do app e o título acima de uma pré-visualização com cantos arredondados, e a janela selecionada é contornada com a sua cor de destaque. Os temas claro e escuro usam o mesmo layout, e o tema escuro usa um fundo grafite neutro.
-- **Pré-visualizações maiores** no alternador, mais próximas do formato das suas janelas.
-- **Botões de fechar e minimizar mais caprichados:** menores, no canto do cartão, nítidos e centralizados, e não cobrem mais o título da janela.
-- **Espaçamento mais compacto** no alternador e nas pré-visualizações do Dock.
-</description>
-      <description xml:lang="vi" sparkle:format="markdown">### Cải thiện
-- **Switcher gọn gàng hơn.** Mỗi cửa sổ giờ là một thẻ, với biểu tượng ứng dụng và tiêu đề nằm trên ảnh xem trước bo góc; cửa sổ đang chọn được viền bằng màu nhấn của bạn. Giao diện sáng và tối dùng chung bố cục, giao diện tối dùng nền xám than trung tính.
-- **Ảnh xem trước lớn hơn** trong switcher, gần với tỉ lệ cửa sổ thật.
-- **Nút đóng và thu nhỏ gọn hơn:** nhỏ hơn, nằm ở góc thẻ, rõ nét và cân giữa, không còn che tiêu đề cửa sổ.
-- **Khoảng cách gọn hơn** trong switcher và xem trước trên Dock.
-</description>
-      <description xml:lang="zh-Hans" sparkle:format="markdown">### 改进
-- **更简洁的切换器。** 每个窗口现在都是一张卡片：应用图标和标题位于圆角预览图上方，选中的窗口以你的强调色描边。浅色和深色主题使用相同的布局，深色主题采用中性的炭灰色背景。
-- 切换器中的**预览图更大**，更接近窗口的实际比例。
-- **关闭和最小化按钮更精致：** 更小，位于卡片角落，清晰居中，不再遮挡窗口标题。
-- 切换器和程序坞预览中的**间距更紧凑**。
-</description>
-      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.3.1/Saltabo.zip" length="4881771" type="application/octet-stream" sparkle:edSignature="zoZUuOS0LKq+PEoIAUblICo6kXTuQAs2b7hSvZvWJ1LIVDKFTSj56OiwAUp/nNK4tQYEoIaRpfLM2ZeRCtvmDA==" />
-      <sparkle:criticalUpdate sparkle:version="131" />
-    </item>
-    <item>
-      <title>1.3.0</title>
-      <pubDate>Thu, 15 Oct 2026 04:37:40 +0000</pubDate>
-      <sparkle:version>131</sparkle:version>
-      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown" xml:lang="en">### New
-- **Free plan.** When the 14-day trial ends, Saltabo keeps working as a free app switcher instead of locking. Dock previews, search in the switcher, closing and minimizing windows, and excluded apps are Pro features.
-- **Trial reminders.** A notification 3 days before the trial ends and on the last day. The menu bar menu shows how many trial days are left.
-- **Close and minimize buttons** on switcher items and Dock preview thumbnails. With "One item per app", they act on all of the app's windows, and choosing a minimized app brings all its windows back.
-- **Dock preview options:** preview size, distance from the Dock, and showing or hiding window titles.
-- **Reorganized Settings** with new Dock and License tabs. The License tab shows your plan and which Pro features are included.
+### New
+- **Lost your license key?** A new button in Settings → License opens the customer portal, where you can sign in with your purchase email to see your keys and activations.
 
 ### Changes
-- Licenses and trials are now verified by the Saltabo server. Activated licenses are checked again automatically and keep working offline for up to 30 days. Existing licenses are carried over; open Saltabo while online within 14 days.
-- The W and M keys no longer close or minimize windows in the switcher; use the new buttons.
-- Minimized windows and windows of hidden apps are no longer shown by default. Turn them back on in Settings &gt; Controls.
-- The menu bar icon is always shown.
-- Clearer wording across Settings.
+- The website, pricing page and support email moved to saltabo.app.
 </description>
-      <description xml:lang="vi" sparkle:format="markdown">### Mới
-- **Gói miễn phí.** Khi hết 14 ngày dùng thử, Saltabo vẫn hoạt động như một trình chuyển ứng dụng miễn phí thay vì bị khoá. Xem trước trên Dock, tìm kiếm trong switcher, đóng và thu nhỏ cửa sổ, cùng loại trừ ứng dụng là các tính năng Pro.
-- **Nhắc hết hạn dùng thử.** Thông báo 3 ngày trước khi hết hạn và vào ngày cuối. Menu trên thanh menu hiện số ngày dùng thử còn lại.
-- **Nút đóng và thu nhỏ** trên các mục của switcher và ảnh xem trước trên Dock. Ở chế độ "Mỗi ứng dụng một mục", các nút tác động lên tất cả cửa sổ của ứng dụng, và chọn lại một ứng dụng đã thu nhỏ sẽ mở lại tất cả cửa sổ.
-- **Tuỳ chọn xem trước trên Dock:** kích thước, khoảng cách tới Dock, ẩn hoặc hiện tiêu đề cửa sổ.
-- **Sắp xếp lại Cài đặt** với tab Dock và tab Giấy phép mới. Tab Giấy phép hiện gói đang dùng và các tính năng Pro đi kèm.
+      <description xml:lang="de" sparkle:format="markdown">### Wichtig
+- **Pflichtupdate.** Saltabo nutzt jetzt einen neuen Lizenzserver unter saltabo.app. Ältere Versionen können Lizenzen nicht mehr aktivieren oder prüfen – bitte aktualisiere, damit Pro weiter funktioniert.
+
+### Neu
+- **Lizenzschlüssel verloren?** Eine neue Taste unter Einstellungen → Lizenz öffnet das Kundenportal. Dort meldest du dich mit der E-Mail-Adresse deines Kaufs an und siehst deine Schlüssel und Aktivierungen.
+
+### Änderungen
+- Website, Preisseite und Support-E-Mail sind zu saltabo.app umgezogen.
+</description>
+      <description xml:lang="es" sparkle:format="markdown">### Importante
+- **Actualización obligatoria.** Saltabo usa ahora un nuevo servidor de licencias en saltabo.app. Las versiones anteriores ya no pueden activar ni verificar licencias, así que actualiza para seguir usando Pro.
+
+### Novedades
+- **¿Perdiste tu clave de licencia?** Un nuevo botón en Ajustes → Licencia abre el portal de clientes, donde inicias sesión con el correo de tu compra para ver tus claves y activaciones.
+
+### Cambios
+- El sitio web, la página de precios y el correo de soporte se han trasladado a saltabo.app.
+</description>
+      <description xml:lang="fr" sparkle:format="markdown">### Important
+- **Mise à jour obligatoire.** Saltabo utilise désormais un nouveau serveur de licences sur saltabo.app. Les versions précédentes ne peuvent plus activer ni vérifier les licences : mettez à jour pour conserver Pro.
+
+### Nouveautés
+- **Clé de licence perdue ?** Un nouveau bouton dans Réglages → Licence ouvre le portail client, où vous vous connectez avec l’e-mail de votre achat pour voir vos clés et vos activations.
+
+### Changements
+- Le site, la page des tarifs et l’e-mail d’assistance sont désormais sur saltabo.app.
+</description>
+      <description xml:lang="it" sparkle:format="markdown">### Importante
+- **Aggiornamento obbligatorio.** Saltabo ora usa un nuovo server delle licenze su saltabo.app. Le versioni precedenti non possono più attivare né verificare le licenze: aggiorna per continuare a usare Pro.
+
+### Novità
+- **Hai perso la chiave di licenza?** Un nuovo pulsante in Impostazioni → Licenza apre il portale clienti, dove accedi con l'email dell'acquisto per vedere le tue chiavi e le attivazioni.
+
+### Modifiche
+- Il sito, la pagina dei prezzi e l'email di supporto sono passati a saltabo.app.
+</description>
+      <description xml:lang="ja" sparkle:format="markdown">### 重要
+- **必須のアップデートです。** Saltabo は saltabo.app の新しいライセンスサーバーを使うようになりました。以前のバージョンではライセンスのアクティベートや確認ができなくなったため、Pro を使い続けるにはアップデートしてください。
+
+### 新機能
+- **ライセンスキーをお忘れですか？** 「設定」→「ライセンス」の新しいボタンからカスタマーポータルを開けます。購入時のメールアドレスでサインインすると、キーとアクティベーションを確認できます。
+
+### 変更点
+- Web サイト、価格ページ、サポートのメールアドレスを saltabo.app に移行しました。
+</description>
+      <description xml:lang="ko" sparkle:format="markdown">### 중요
+- **필수 업데이트입니다.** Saltabo는 이제 saltabo.app의 새 라이선스 서버를 사용합니다. 이전 버전에서는 더 이상 라이선스를 활성화하거나 확인할 수 없으므로 Pro를 계속 사용하려면 업데이트하세요.
+
+### 새로운 기능
+- **라이선스 키를 잃어버리셨나요?** 설정 → 라이선스의 새 버튼으로 고객 포털을 열 수 있습니다. 구입할 때 사용한 이메일로 로그인하면 키와 활성화 내역을 볼 수 있습니다.
+
+### 변경 사항
+- 웹사이트, 가격 페이지, 지원 이메일이 saltabo.app으로 이전되었습니다.
+</description>
+      <description xml:lang="pt" sparkle:format="markdown">### Importante
+- **Atualização obrigatória.** O Saltabo agora usa um novo servidor de licenças em saltabo.app. As versões anteriores não conseguem mais ativar nem verificar licenças, então atualize para continuar usando o Pro.
+
+### Novidades
+- **Perdeu sua chave de licença?** Um novo botão em Ajustes → Licença abre o portal do cliente, onde você entra com o e-mail da compra para ver suas chaves e ativações.
+
+### Mudanças
+- O site, a página de preços e o e-mail de suporte agora estão em saltabo.app.
+</description>
+      <description xml:lang="vi" sparkle:format="markdown">### Quan trọng
+- **Bản cập nhật bắt buộc.** Saltabo giờ dùng máy chủ license mới tại saltabo.app. Các phiên bản trước không thể kích hoạt hay xác minh license nữa, vui lòng cập nhật để tiếp tục dùng Pro.
+
+### Mới
+- **Quên license key?** Nút mới trong Cài đặt → Giấy phép mở trang khách hàng, nơi bạn đăng nhập bằng email đã dùng khi mua để xem key và các máy đã kích hoạt.
 
 ### Thay đổi
-- Giấy phép và bản dùng thử giờ được máy chủ Saltabo xác minh. Giấy phép đã kích hoạt được tự động kiểm tra lại và vẫn dùng được khi không có mạng tối đa 30 ngày. Giấy phép hiện có được giữ nguyên; hãy mở Saltabo khi có mạng trong vòng 14 ngày.
-- Phím W và M không còn đóng hay thu nhỏ cửa sổ trong switcher; hãy dùng các nút mới.
-- Cửa sổ đã thu nhỏ và cửa sổ của ứng dụng đã ẩn không còn hiện theo mặc định. Có thể bật lại trong Cài đặt &gt; Điều khiển.
-- Biểu tượng trên thanh menu luôn hiển thị.
-- Câu chữ trong Cài đặt rõ ràng hơn.
+- Trang web, trang giá và email hỗ trợ đã chuyển sang saltabo.app.
 </description>
-      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.3.0/Saltabo.zip" length="4872886" type="application/octet-stream" sparkle:edSignature="dbojcM56PhPcfDWFxEiALSIoXs4csulXJlIiD7pLu7NrSwFThsK+9WtQT76dgk9jdTCuRdtSOxP5ZiXxBm/PCA==" />
-      <sparkle:criticalUpdate sparkle:version="131" />
+      <description xml:lang="zh-Hans" sparkle:format="markdown">### 重要
+- **必需更新。** Saltabo 现在使用位于 saltabo.app 的新许可证服务器。旧版本已无法激活或验证许可证，请更新以继续使用 Pro。
+
+### 新功能
+- **找不到许可证密钥？** “设置”→“许可证”中的新按钮可打开客户门户，使用购买时的电子邮件登录即可查看你的密钥和激活情况。
+
+### 变更
+- 网站、价格页面和支持邮箱已迁移到 saltabo.app。
+</description>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.3.4/Saltabo.zip" length="4907530" type="application/octet-stream" sparkle:edSignature="kVsy9TKTFqm5pxrv5MW0uLQ1+BHIAe4kPDpkxdhTfe16kj1X8PQiWDvNUvSr5uSpatX1+LxV37VrWtYfg+3JBA==" />
+      <sparkle:criticalUpdate sparkle:version="135" />
     </item>
   </channel>
 </rss>
