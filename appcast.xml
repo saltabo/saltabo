@@ -6,6 +6,155 @@
     <description>Latest releases for Saltabo</description>
     <language>en</language>
     <item>
+      <title>1.3.5</title>
+      <pubDate>Sun, 18 Oct 2026 16:41:27 +0000</pubDate>
+      <sparkle:version>136</sparkle:version>
+      <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown" xml:lang="en">### New
+- **Liquid Glass.** On macOS 26 and later, the switcher and Dock previews use the new Liquid Glass look. You can turn it off in Settings → Appearance.
+- **A purple Settings window**, matching the Saltabo brand.
+
+### Improved
+- **One look for the switcher and Dock previews:** frosted cards with a clear outline on the selected window, in both light and dark themes. Dock preview titles are now centered.
+- **The dark switcher stays dark** even when your Mac uses the light appearance.
+- **The Classic menu bar icon** now has a transparent background and follows a light or dark menu bar.
+- Sharper style previews in Settings.
+
+### Fixes
+- With "All screens", windows on other desktops can now be closed and minimized from the switcher.
+- Windows you closed no longer show up in the switcher when you switch from another desktop.
+</description>
+      <description xml:lang="de" sparkle:format="markdown">### Neu
+- **Liquid Glass.** Ab macOS 26 nutzen der Umschalter und die Dock-Vorschauen das neue Liquid-Glass-Design. Du kannst es unter Einstellungen → Darstellung ausschalten.
+- **Ein violettes Einstellungsfenster** in den Saltabo-Farben.
+
+### Verbessert
+- **Ein Look für Umschalter und Dock-Vorschauen:** Milchglas-Karten mit klarer Umrandung für das ausgewählte Fenster, im hellen wie im dunklen Design. Die Titel der Dock-Vorschauen sind jetzt zentriert.
+- **Der dunkle Umschalter bleibt dunkel**, auch wenn dein Mac das helle Erscheinungsbild nutzt.
+- **Das klassische Menüleistensymbol** hat jetzt einen transparenten Hintergrund und passt sich einer hellen oder dunklen Menüleiste an.
+- Schärfere Stilvorschauen in den Einstellungen.
+
+### Fehlerbehebungen
+- Mit „Alle Bildschirme“ lassen sich Fenster auf anderen Schreibtischen jetzt aus dem Umschalter schließen und minimieren.
+- Geschlossene Fenster erscheinen nicht mehr im Umschalter, wenn du von einem anderen Schreibtisch wechselst.
+</description>
+      <description xml:lang="es" sparkle:format="markdown">### Novedades
+- **Liquid Glass.** En macOS 26 y posteriores, el selector y las vistas previas del Dock usan el nuevo aspecto Liquid Glass. Puedes desactivarlo en Ajustes → Apariencia.
+- **Una ventana de Ajustes en morado**, con los colores de Saltabo.
+
+### Mejoras
+- **Un mismo estilo para el selector y las vistas previas del Dock:** tarjetas esmeriladas y un contorno claro en la ventana seleccionada, en tema claro y oscuro. Los títulos de las vistas previas del Dock ahora están centrados.
+- **El selector oscuro sigue siendo oscuro**, aunque tu Mac use la apariencia clara.
+- **El icono Clásico de la barra de menús** ahora tiene fondo transparente y se adapta a una barra de menús clara u oscura.
+- Vistas previas de estilos más nítidas en Ajustes.
+
+### Correcciones
+- Con «Todas las pantallas», ahora puedes cerrar y minimizar desde el selector las ventanas de otros escritorios.
+- Las ventanas que cerraste ya no aparecen en el selector al venir de otro escritorio.
+</description>
+      <description xml:lang="fr" sparkle:format="markdown">### Nouveautés
+- **Liquid Glass.** Sur macOS 26 et versions ultérieures, le sélecteur et les aperçus du Dock adoptent le nouveau style Liquid Glass. Vous pouvez le désactiver dans Réglages → Apparence.
+- **Une fenêtre Réglages violette**, aux couleurs de Saltabo.
+
+### Améliorations
+- **Un même style pour le sélecteur et les aperçus du Dock :** cartes givrées et contour net sur la fenêtre sélectionnée, en thème clair comme sombre. Les titres des aperçus du Dock sont désormais centrés.
+- **Le sélecteur sombre reste sombre**, même lorsque votre Mac utilise l’apparence claire.
+- **L’icône Classique de la barre des menus** a désormais un fond transparent et s’adapte à une barre des menus claire ou sombre.
+- Aperçus des styles plus nets dans les Réglages.
+
+### Corrections
+- Avec « Tous les écrans », les fenêtres situées sur d’autres bureaux peuvent désormais être fermées et réduites depuis le sélecteur.
+- Les fenêtres que vous avez fermées n’apparaissent plus dans le sélecteur lorsque vous venez d’un autre bureau.
+</description>
+      <description xml:lang="it" sparkle:format="markdown">### Novità
+- **Liquid Glass.** Su macOS 26 e versioni successive, il selettore e le anteprime del Dock usano il nuovo aspetto Liquid Glass. Puoi disattivarlo in Impostazioni → Aspetto.
+- **Una finestra Impostazioni viola**, con i colori di Saltabo.
+
+### Miglioramenti
+- **Un unico stile per il selettore e le anteprime del Dock:** schede smerigliate e un contorno netto sulla finestra selezionata, nel tema chiaro e in quello scuro. I titoli delle anteprime del Dock ora sono centrati.
+- **Il selettore scuro resta scuro**, anche quando il Mac usa l'aspetto chiaro.
+- **L'icona Classica della barra dei menu** ora ha lo sfondo trasparente e si adatta a una barra dei menu chiara o scura.
+- Anteprime degli stili più nitide nelle Impostazioni.
+
+### Correzioni
+- Con "Tutti gli schermi", ora puoi chiudere e ridurre a icona dal selettore le finestre che si trovano su altre scrivanie.
+- Le finestre che hai chiuso non compaiono più nel selettore quando arrivi da un'altra scrivania.
+</description>
+      <description xml:lang="ja" sparkle:format="markdown">### 新機能
+- **Liquid Glass。** macOS 26 以降では、スイッチャーと Dock プレビューに新しい Liquid Glass デザインを使います。「設定」→「外観」でオフにできます。
+- **紫色の設定ウインドウ。** Saltabo のブランドカラーに合わせました。
+
+### 改善点
+- **スイッチャーと Dock プレビューのデザインを統一：** すりガラスのカードと、選択中のウインドウのはっきりした枠線。ライト・ダーク両方のテーマに対応しています。Dock プレビューのタイトルは中央揃えになりました。
+- **ダークのスイッチャーは常に暗く表示されます。** Mac がライトモードでも同様です。
+- **メニューバーの「クラシック」アイコン**は背景が透明になり、明るい・暗いメニューバーに合わせて表示されます。
+- 設定内のスタイルプレビューがより鮮明になりました。
+
+### 修正
+- 「すべての画面」を選んでいるとき、ほかのデスクトップにあるウインドウもスイッチャーから閉じたり最小化したりできるようになりました。
+- 閉じたウインドウが、ほかのデスクトップから切り替えたときにスイッチャーに表示されなくなりました。
+</description>
+      <description xml:lang="ko" sparkle:format="markdown">### 새로운 기능
+- **Liquid Glass.** macOS 26 이상에서 스위처와 Dock 미리보기가 새로운 Liquid Glass 디자인을 사용합니다. 설정 → 모양에서 끌 수 있습니다.
+- **보라색 설정 창**으로 Saltabo 브랜드 색상에 맞췄습니다.
+
+### 개선 사항
+- **스위처와 Dock 미리보기의 디자인 통일:** 반투명 유리 카드와 선택된 윈도우의 선명한 테두리를 라이트·다크 테마 모두에서 사용합니다. Dock 미리보기 제목은 이제 가운데 정렬됩니다.
+- **다크 스위처는 항상 어둡게 표시됩니다.** Mac이 라이트 모드일 때도 마찬가지입니다.
+- **클래식 메뉴 막대 아이콘**의 배경이 투명해졌으며, 밝거나 어두운 메뉴 막대에 맞춰 표시됩니다.
+- 설정의 스타일 미리보기가 더 선명해졌습니다.
+
+### 수정 사항
+- '모든 화면'을 사용할 때 다른 데스크탑에 있는 윈도우도 이제 스위처에서 닫거나 최소화할 수 있습니다.
+- 다른 데스크탑에서 전환해 올 때 이미 닫은 윈도우가 더 이상 스위처에 표시되지 않습니다.
+</description>
+      <description xml:lang="pt" sparkle:format="markdown">### Novidades
+- **Liquid Glass.** No macOS 26 e posterior, o alternador e as pré-visualizações do Dock usam o novo visual Liquid Glass. Você pode desativá-lo em Ajustes → Aparência.
+- **Uma janela de Ajustes roxa**, nas cores do Saltabo.
+
+### Melhorias
+- **Um só visual para o alternador e as pré-visualizações do Dock:** cartões foscos e um contorno nítido na janela selecionada, nos temas claro e escuro. Os títulos das pré-visualizações do Dock agora ficam centralizados.
+- **O alternador escuro continua escuro**, mesmo quando o Mac usa a aparência clara.
+- **O ícone Clássico da barra de menus** agora tem fundo transparente e se adapta a uma barra de menus clara ou escura.
+- Pré-visualizações de estilo mais nítidas nos Ajustes.
+
+### Correções
+- Com "Todas as telas", agora é possível fechar e minimizar pelo alternador as janelas de outras mesas.
+- Janelas que você fechou não aparecem mais no alternador ao vir de outra mesa.
+</description>
+      <description xml:lang="vi" sparkle:format="markdown">### Mới
+- **Liquid Glass.** Trên macOS 26 trở lên, switcher và Dock preview dùng giao diện Liquid Glass mới. Bạn có thể tắt trong Cài đặt → Giao diện.
+- **Cửa sổ Cài đặt màu tím**, đồng bộ với thương hiệu Saltabo.
+
+### Cải thiện
+- **Switcher và Dock preview dùng chung một kiểu:** thẻ kính mờ, cửa sổ đang chọn có viền rõ, ở cả giao diện sáng lẫn tối. Tiêu đề trong Dock preview giờ được căn giữa.
+- **Switcher giao diện tối luôn tối**, kể cả khi máy Mac đang dùng giao diện sáng.
+- **Biểu tượng menu bar kiểu Classic** giờ có nền trong suốt và tự đổi màu theo menu bar sáng hoặc tối.
+- Ảnh xem trước các kiểu switcher trong Cài đặt nét hơn.
+
+### Sửa lỗi
+- Khi chọn "Tất cả màn hình", giờ có thể đóng và thu nhỏ cửa sổ ở desktop khác ngay từ switcher.
+- Cửa sổ bạn đã đóng không còn hiện trong switcher khi chuyển từ desktop khác sang.
+</description>
+      <description xml:lang="zh-Hans" sparkle:format="markdown">### 新功能
+- **Liquid Glass。** 在 macOS 26 及更高版本上，切换器和程序坞预览采用全新的 Liquid Glass 外观。你可以在“设置”→“外观”中关闭。
+- **紫色的设置窗口**，与 Saltabo 品牌色一致。
+
+### 改进
+- **切换器与程序坞预览风格统一：** 磨砂卡片，选中的窗口有清晰的描边，浅色和深色主题均适用。程序坞预览的标题现已居中。
+- **深色切换器始终保持深色**，即使 Mac 使用浅色外观。
+- **“经典”菜单栏图标**现在使用透明背景，并会随菜单栏的浅色或深色自动调整。
+- 设置中的样式预览更清晰。
+
+### 修复
+- 选择“所有屏幕”时，现在可以在切换器中关闭和最小化其他桌面上的窗口。
+- 从其他桌面切换过来时，已关闭的窗口不再出现在切换器中。
+</description>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.3.5/Saltabo.zip" length="4855133" type="application/octet-stream" sparkle:edSignature="G2FV95eOBAEJTc/p1qL2d/UibvwZguCSOs06W79O4JvhPAoRivUQPERb79NGe4diSBWw6clM3HqO8HN7W+IuAQ==" />
+      <sparkle:criticalUpdate sparkle:version="135" />
+    </item>
+    <item>
       <title>1.3.4</title>
       <pubDate>Sat, 17 Oct 2026 14:45:56 +0000</pubDate>
       <sparkle:version>135</sparkle:version>
