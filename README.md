@@ -47,6 +47,12 @@ Download the latest version:
 
 ---
 
+## 📝 Changelog
+
+What changed in each release: [CHANGELOG.md](CHANGELOG.md)
+
+---
+
 ## 🔄 Auto Update
 
 Saltabo uses Sparkle for automatic updates.
