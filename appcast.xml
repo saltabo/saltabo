@@ -6,6 +6,95 @@
     <description>Latest releases for Saltabo</description>
     <language>en</language>
     <item>
+      <title>1.3.6</title>
+      <pubDate>Tue, 20 Oct 2026 02:14:53 +0000</pubDate>
+      <sparkle:version>137</sparkle:version>
+      <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown" xml:lang="en">### Improved
+- **A clear message when your license ends.** If your subscription ends or is refunded, Saltabo now tells you once and offers to renew or open the customer portal, instead of quietly turning Pro features off.
+- **Clearer license errors.** Entering a key whose subscription has ended now explains that the license is no longer active, instead of calling the key invalid.
+- If this Mac's activation was removed (for example from the customer portal), Saltabo tells you and lets you enter your key again.
+
+### Fixes
+- Licenses and trials work correctly again once Saltabo is back online, even if the Mac's clock was set wrong.
+</description>
+      <description xml:lang="de" sparkle:format="markdown">### Verbessert
+- **Eine klare Meldung, wenn deine Lizenz endet.** Wenn dein Abonnement abläuft oder erstattet wird, sagt Saltabo dir das einmal und bietet an, es zu verlängern oder das Kundenportal zu öffnen, statt die Pro-Funktionen still abzuschalten.
+- **Verständlichere Lizenzfehler.** Wenn du einen Schlüssel eingibst, dessen Abonnement beendet ist, erklärt Saltabo jetzt, dass die Lizenz nicht mehr aktiv ist, statt den Schlüssel als ungültig zu melden.
+- Wenn die Aktivierung dieses Macs entfernt wurde (zum Beispiel im Kundenportal), sagt Saltabo dir das und lässt dich deinen Schlüssel erneut eingeben.
+
+### Fehlerbehebungen
+- Lizenzen und die Testphase funktionieren wieder richtig, sobald Saltabo online ist, auch wenn die Uhr des Macs falsch eingestellt war.
+</description>
+      <description xml:lang="es" sparkle:format="markdown">### Mejoras
+- **Un mensaje claro cuando termina tu licencia.** Si tu suscripción finaliza o se reembolsa, Saltabo te avisa una vez y te ofrece renovarla o abrir el portal de clientes, en lugar de desactivar las funciones Pro sin decir nada.
+- **Errores de licencia más claros.** Al introducir una clave cuya suscripción ha finalizado, ahora se explica que la licencia ya no está activa, en lugar de decir que la clave no es válida.
+- Si se eliminó la activación de este Mac (por ejemplo, desde el portal de clientes), Saltabo te avisa y te permite volver a introducir tu clave.
+
+### Correcciones
+- Las licencias y la prueba vuelven a funcionar correctamente en cuanto Saltabo tiene conexión, aunque el reloj del Mac estuviera mal configurado.
+</description>
+      <description xml:lang="fr" sparkle:format="markdown">### Améliorations
+- **Un message clair quand votre licence prend fin.** Si votre abonnement expire ou est remboursé, Saltabo vous prévient une fois et propose de le renouveler ou d’ouvrir le portail client, au lieu de désactiver discrètement les fonctionnalités Pro.
+- **Des erreurs de licence plus claires.** Saisir une clé dont l’abonnement a pris fin indique désormais que la licence n’est plus active, au lieu de signaler une clé invalide.
+- Si l’activation de ce Mac a été supprimée (par exemple depuis le portail client), Saltabo vous prévient et vous permet de saisir à nouveau votre clé.
+
+### Corrections
+- Les licences et l’essai fonctionnent de nouveau correctement dès que Saltabo est en ligne, même si l’horloge du Mac était mal réglée.
+</description>
+      <description xml:lang="it" sparkle:format="markdown">### Miglioramenti
+- **Un messaggio chiaro quando la licenza termina.** Se l’abbonamento scade o viene rimborsato, Saltabo te lo comunica una volta e propone di rinnovarlo o di aprire il portale clienti, invece di disattivare in silenzio le funzionalità Pro.
+- **Errori di licenza più chiari.** Inserendo una chiave il cui abbonamento è terminato, ora viene spiegato che la licenza non è più attiva, invece di indicare che la chiave non è valida.
+- Se l’attivazione di questo Mac è stata rimossa (ad esempio dal portale clienti), Saltabo te lo comunica e ti permette di inserire di nuovo la chiave.
+
+### Correzioni
+- Licenze e prova tornano a funzionare correttamente non appena Saltabo è di nuovo online, anche se l’orologio del Mac era impostato male.
+</description>
+      <description xml:lang="ja" sparkle:format="markdown">### 改善
+- **ライセンスが終了したときにわかりやすくお知らせ。** サブスクリプションが終了したり返金されたりした場合、Pro 機能を黙ってオフにする代わりに、一度だけお知らせして更新やカスタマーポータルを開くよう案内します。
+- **ライセンスエラーがわかりやすくなりました。** サブスクリプションが終了したキーを入力すると、キーが無効だと表示する代わりに、ライセンスが現在無効であることを説明します。
+- この Mac のアクティベーションが（カスタマーポータルなどから）削除された場合は、その旨をお知らせし、キーを再入力できるようにします。
+
+### 修正
+- Mac の時計が正しく設定されていなかった場合でも、Saltabo がオンラインに戻ればライセンスと試用期間が正しく動作するようになりました。
+</description>
+      <description xml:lang="ko" sparkle:format="markdown">### 개선
+- **라이선스가 종료되면 명확하게 알려 줍니다.** 구독이 종료되거나 환불되면 Pro 기능을 조용히 끄는 대신, 한 번 알려 주고 갱신하거나 고객 포털을 열 수 있게 합니다.
+- **라이선스 오류 메시지가 더 명확해졌습니다.** 구독이 종료된 키를 입력하면 키가 유효하지 않다고 표시하는 대신, 라이선스가 더 이상 활성 상태가 아니라고 설명합니다.
+- 이 Mac의 활성화가 (예: 고객 포털에서) 제거되면 이를 알려 주고 키를 다시 입력할 수 있게 합니다.
+
+### 수정
+- Mac의 시계가 잘못 설정되어 있었더라도 Saltabo가 다시 온라인 상태가 되면 라이선스와 체험판이 정상적으로 작동합니다.
+</description>
+      <description xml:lang="pt" sparkle:format="markdown">### Melhorias
+- **Uma mensagem clara quando sua licença termina.** Se sua assinatura terminar ou for reembolsada, o Saltabo avisa uma vez e oferece renovar ou abrir o portal do cliente, em vez de desativar os recursos Pro sem aviso.
+- **Erros de licença mais claros.** Ao digitar uma chave cuja assinatura terminou, agora é explicado que a licença não está mais ativa, em vez de dizer que a chave é inválida.
+- Se a ativação deste Mac foi removida (por exemplo, no portal do cliente), o Saltabo avisa e permite digitar sua chave novamente.
+
+### Correções
+- Licenças e o teste voltam a funcionar corretamente assim que o Saltabo fica online, mesmo que o relógio do Mac estivesse configurado errado.
+</description>
+      <description xml:lang="vi" sparkle:format="markdown">### Cải thiện
+- **Thông báo rõ ràng khi license kết thúc.** Khi gói đăng ký hết hạn hoặc được hoàn tiền, Saltabo sẽ báo cho bạn một lần và gợi ý gia hạn hoặc mở cổng khách hàng, thay vì lặng lẽ tắt các tính năng Pro.
+- **Thông báo lỗi license dễ hiểu hơn.** Khi nhập key có gói đăng ký đã kết thúc, Saltabo giải thích rằng license không còn hiệu lực, thay vì báo key không hợp lệ.
+- Nếu lượt kích hoạt của máy Mac này bị gỡ (ví dụ từ cổng khách hàng), Saltabo sẽ báo và cho bạn nhập lại key.
+
+### Sửa lỗi
+- License và bản dùng thử hoạt động đúng trở lại khi Saltabo có mạng, kể cả khi đồng hồ của máy Mac từng bị đặt sai.
+</description>
+      <description xml:lang="zh-Hans" sparkle:format="markdown">### 改进
+- **许可证结束时给出明确提示。** 如果订阅到期或已退款，Saltabo 会提示你一次，并提供续订或打开客户门户的选项，而不是悄悄关闭 Pro 功能。
+- **更清晰的许可证错误提示。** 输入订阅已结束的密钥时，现在会说明许可证已失效，而不是提示密钥无效。
+- 如果此 Mac 的激活已被移除（例如在客户门户中），Saltabo 会提示你，并让你重新输入密钥。
+
+### 修复
+- 即使 Mac 的时钟曾设置错误，只要 Saltabo 重新联网，许可证和试用就能恢复正常。
+</description>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.3.6/Saltabo.zip" length="4871129" type="application/octet-stream" sparkle:edSignature="Atu8Ib3xKcSuroZcJhixLkf7jKigjBiLjsfJ8eK2kTXFocLZ8l2cJnzrrt2/y8X1bfyjQojqKs2TKUAfrTfSBA==" />
+      <sparkle:criticalUpdate sparkle:version="135" />
+    </item>
+    <item>
       <title>1.3.5</title>
       <pubDate>Sun, 18 Oct 2026 16:41:27 +0000</pubDate>
       <sparkle:version>136</sparkle:version>

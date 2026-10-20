@@ -3,6 +3,16 @@
 All notable changes to [Saltabo](https://saltabo.app), newest first.
 Downloads: https://github.com/saltabo/saltabo/releases
 
+## [1.3.6] - 2026-10-20
+
+### Improved
+- **A clear message when your license ends.** If your subscription ends or is refunded, Saltabo now tells you once and offers to renew or open the customer portal, instead of quietly turning Pro features off.
+- **Clearer license errors.** Entering a key whose subscription has ended now explains that the license is no longer active, instead of calling the key invalid.
+- If this Mac's activation was removed (for example from the customer portal), Saltabo tells you and lets you enter your key again.
+
+### Fixes
+- Licenses and trials work correctly again once Saltabo is back online, even if the Mac's clock was set wrong.
+
 ## [1.3.5] - 2026-10-18
 
 ### New
