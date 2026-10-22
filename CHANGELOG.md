@@ -3,6 +3,14 @@
 All notable changes to [Saltabo](https://saltabo.app), newest first.
 Downloads: https://github.com/saltabo/saltabo/releases
 
+## [1.3.7] - 2026-10-22
+
+### Improved
+- **Close and minimize buttons in Dock previews** now look and space out exactly like the switcher's, and both get a faint outline so they stay visible on dark windows.
+
+### Fixes
+- The style previews in Settings → Appearance no longer sometimes stretch over the whole tab.
+
 ## [1.3.6] - 2026-10-20
 
 ### Improved

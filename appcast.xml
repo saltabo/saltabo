@@ -6,6 +6,75 @@
     <description>Latest releases for Saltabo</description>
     <language>en</language>
     <item>
+      <title>1.3.7</title>
+      <pubDate>Thu, 22 Oct 2026 17:57:00 +0000</pubDate>
+      <sparkle:version>138</sparkle:version>
+      <sparkle:shortVersionString>1.3.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown" xml:lang="en">### Improved
+- **Close and minimize buttons in Dock previews** now look and space out exactly like the switcher's, and both get a faint outline so they stay visible on dark windows.
+
+### Fixes
+- The style previews in Settings → Appearance no longer sometimes stretch over the whole tab.
+</description>
+      <description xml:lang="de" sparkle:format="markdown">### Verbessert
+- **Die Tasten zum Schließen und Minimieren in den Dock-Vorschauen** haben jetzt genau dieselbe Größe und denselben Abstand wie im Umschalter, und beide bekommen eine dezente Umrandung, damit sie auf dunklen Fenstern sichtbar bleiben.
+
+### Fehlerbehebungen
+- Die Stilvorschauen unter Einstellungen → Darstellung ziehen sich nicht mehr gelegentlich über den ganzen Tab.
+</description>
+      <description xml:lang="es" sparkle:format="markdown">### Mejoras
+- **Los botones de cerrar y minimizar de las vistas previas del Dock** ahora tienen exactamente el mismo tamaño y espaciado que en el selector, y todos llevan un contorno suave para verse bien sobre ventanas oscuras.
+
+### Correcciones
+- Las vistas previas de estilos en Ajustes → Apariencia ya no se estiran a veces sobre toda la pestaña.
+</description>
+      <description xml:lang="fr" sparkle:format="markdown">### Améliorations
+- **Les boutons Fermer et Réduire des aperçus du Dock** ont désormais exactement la taille et l’espacement de ceux du sélecteur, et tous ont un léger contour pour rester visibles sur les fenêtres sombres.
+
+### Corrections
+- Les aperçus des styles dans Réglages → Apparence ne s’étirent plus parfois sur tout l’onglet.
+</description>
+      <description xml:lang="it" sparkle:format="markdown">### Miglioramenti
+- **I pulsanti Chiudi e Riduci delle anteprime del Dock** ora hanno esattamente le stesse dimensioni e la stessa spaziatura del selettore, e tutti hanno un leggero contorno per restare visibili sulle finestre scure.
+
+### Correzioni
+- Le anteprime degli stili in Impostazioni → Aspetto non si allargano più, a volte, su tutta la scheda.
+</description>
+      <description xml:lang="ja" sparkle:format="markdown">### 改善点
+- **Dock プレビューの「閉じる」「最小化」ボタン**が、スイッチャーと同じサイズと間隔になりました。どちらにも淡い縁取りが付き、暗いウインドウの上でも見やすくなりました。
+
+### 修正
+- 「設定」→「外観」のスタイルプレビューが、ときどきタブ全体に広がってしまう問題を修正しました。
+</description>
+      <description xml:lang="ko" sparkle:format="markdown">### 개선 사항
+- **Dock 미리보기의 닫기·최소화 버튼**이 이제 스위처와 크기와 간격이 똑같으며, 어두운 윈도우 위에서도 잘 보이도록 옅은 테두리가 추가되었습니다.
+
+### 수정 사항
+- 설정 → 모양의 스타일 미리보기가 가끔 탭 전체로 늘어나던 문제를 수정했습니다.
+</description>
+      <description xml:lang="pt" sparkle:format="markdown">### Melhorias
+- **Os botões de fechar e minimizar das pré-visualizações do Dock** agora têm exatamente o mesmo tamanho e espaçamento do alternador, e todos ganharam um contorno suave para continuarem visíveis em janelas escuras.
+
+### Correções
+- As pré-visualizações de estilo em Ajustes → Aparência não se esticam mais, às vezes, sobre a aba inteira.
+</description>
+      <description xml:lang="vi" sparkle:format="markdown">### Cải thiện
+- **Nút đóng và thu nhỏ trong Dock preview** giờ có kích thước và khoảng cách giống hệt trong switcher, và cả hai có thêm viền mờ để vẫn dễ thấy trên cửa sổ màu tối.
+
+### Sửa lỗi
+- Ảnh xem trước các kiểu switcher trong Cài đặt → Giao diện không còn thỉnh thoảng bị phóng to tràn cả tab.
+</description>
+      <description xml:lang="zh-Hans" sparkle:format="markdown">### 改进
+- **程序坞预览中的关闭和最小化按钮**现在与切换器中的大小和间距完全一致，并且都加了淡淡的描边，在深色窗口上也清晰可见。
+
+### 修复
+- “设置”→“外观”中的样式预览不再偶尔被拉伸铺满整个标签页。
+</description>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.3.7/Saltabo.zip" length="4872585" type="application/octet-stream" sparkle:edSignature="2dEVIP6Idz5jvTTKbB6eixXoz1Iu2Dq2Reuikp771ruSXMfnds8b6LxpmtL76HQpA6N8xFaJT9me78+72lRIAQ==" />
+      <sparkle:criticalUpdate sparkle:version="135" />
+    </item>
+    <item>
       <title>1.3.6</title>
       <pubDate>Tue, 20 Oct 2026 02:14:53 +0000</pubDate>
       <sparkle:version>137</sparkle:version>
