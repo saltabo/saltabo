@@ -6,6 +6,65 @@
     <description>Latest releases for Saltabo</description>
     <language>en</language>
     <item>
+      <title>1.3.8</title>
+      <pubDate>Fri, 23 Oct 2026 04:34:46 +0000</pubDate>
+      <sparkle:version>139</sparkle:version>
+      <sparkle:shortVersionString>1.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown" xml:lang="en">### Improved
+- **One look for every switcher style.** App icons and List now use the same frosted cards, selection outline and rounded corners as Thumbnails.
+- **App icons:** the close and minimize buttons sit in the top-right corner, like on thumbnails, and the minimized/hidden badge moves to the top-left.
+- **List:** tighter padding, larger app icons and easier-to-read window names.
+</description>
+      <description xml:lang="de" sparkle:format="markdown">### Verbessert
+- **Ein Look für alle Umschalter-Stile.** App-Symbole und Liste nutzen jetzt dieselben Milchglas-Karten, dieselbe Auswahl-Umrandung und dieselben abgerundeten Ecken wie Miniaturen.
+- **App-Symbole:** Die Tasten zum Schließen und Minimieren sitzen oben rechts wie bei den Miniaturen, das Abzeichen für minimierte/ausgeblendete Fenster wandert nach oben links.
+- **Liste:** kompaktere Abstände, größere App-Symbole und besser lesbare Fensternamen.
+</description>
+      <description xml:lang="es" sparkle:format="markdown">### Mejoras
+- **Un mismo aspecto para todos los estilos del selector.** Iconos de apps y Lista usan ahora las mismas tarjetas esmeriladas, el mismo contorno de selección y las mismas esquinas redondeadas que Miniaturas.
+- **Iconos de apps:** los botones de cerrar y minimizar están en la esquina superior derecha, como en las miniaturas, y la insignia de minimizada/oculta pasa a la esquina superior izquierda.
+- **Lista:** márgenes más ajustados, iconos de apps más grandes y nombres de ventanas más legibles.
+</description>
+      <description xml:lang="fr" sparkle:format="markdown">### Améliorations
+- **Un même style pour tous les sélecteurs.** Icônes d’app et Liste utilisent désormais les mêmes cartes givrées, le même contour de sélection et les mêmes coins arrondis que Vignettes.
+- **Icônes d’app :** les boutons Fermer et Réduire se trouvent dans le coin supérieur droit, comme sur les vignettes, et le badge réduite/masquée passe en haut à gauche.
+- **Liste :** marges plus serrées, icônes d’app plus grandes et noms de fenêtres plus lisibles.
+</description>
+      <description xml:lang="it" sparkle:format="markdown">### Miglioramenti
+- **Un unico stile per tutti i selettori.** Icone app ed Elenco ora usano le stesse schede smerigliate, lo stesso contorno di selezione e gli stessi angoli arrotondati di Miniature.
+- **Icone app:** i pulsanti Chiudi e Riduci stanno nell'angolo in alto a destra, come nelle miniature, e il badge ridotta/nascosta passa in alto a sinistra.
+- **Elenco:** margini più compatti, icone delle app più grandi e nomi delle finestre più leggibili.
+</description>
+      <description xml:lang="ja" sparkle:format="markdown">### 改善点
+- **すべてのスイッチャースタイルのデザインを統一。** 「アプリアイコン」と「リスト」も、「サムネイル」と同じすりガラスのカード、選択枠、角の丸みを使うようになりました。
+- **アプリアイコン：** 「閉じる」「最小化」ボタンはサムネイルと同じく右上に、最小化/非表示のバッジは左上に移動しました。
+- **リスト：** 余白を詰め、アプリアイコンを大きくし、ウインドウ名を読みやすくしました。
+</description>
+      <description xml:lang="ko" sparkle:format="markdown">### 개선 사항
+- **모든 스위처 스타일의 디자인 통일.** 앱 아이콘과 목록도 이제 썸네일과 같은 반투명 유리 카드, 선택 테두리, 둥근 모서리를 사용합니다.
+- **앱 아이콘:** 닫기·최소화 버튼이 썸네일처럼 오른쪽 위에 있으며, 최소화/가려짐 배지는 왼쪽 위로 이동했습니다.
+- **목록:** 여백을 줄이고, 앱 아이콘을 키우고, 윈도우 이름을 더 읽기 쉽게 했습니다.
+</description>
+      <description xml:lang="pt" sparkle:format="markdown">### Melhorias
+- **Um só visual para todos os estilos do alternador.** Ícones de apps e Lista agora usam os mesmos cartões foscos, o mesmo contorno de seleção e os mesmos cantos arredondados de Miniaturas.
+- **Ícones de apps:** os botões de fechar e minimizar ficam no canto superior direito, como nas miniaturas, e o selo de minimizada/oculta passa para o canto superior esquerdo.
+- **Lista:** margens mais justas, ícones de apps maiores e nomes de janelas mais fáceis de ler.
+</description>
+      <description xml:lang="vi" sparkle:format="markdown">### Cải thiện
+- **Mọi kiểu switcher cùng một phong cách.** App icons và List giờ dùng chung thẻ kính mờ, viền chọn và bo góc như Thumbnails.
+- **App icons:** nút đóng và thu nhỏ nằm ở góc trên bên phải như ở Thumbnails, còn nhãn đã thu nhỏ/đã ẩn chuyển sang góc trên bên trái.
+- **List:** khoảng đệm gọn hơn, icon ứng dụng to hơn và tên cửa sổ dễ đọc hơn.
+</description>
+      <description xml:lang="zh-Hans" sparkle:format="markdown">### 改进
+- **所有切换器样式外观统一。** “应用图标”和“列表”现在与“缩略图”使用相同的磨砂卡片、选中描边和圆角。
+- **应用图标：** 关闭和最小化按钮与缩略图一样位于右上角，已最小化/已隐藏的标记移到左上角。
+- **列表：** 边距更紧凑，应用图标更大，窗口名称更易读。
+</description>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.3.8/Saltabo.zip" length="4871303" type="application/octet-stream" sparkle:edSignature="KDe7mQNvnu5LlXWwJPfTgtXPRyR6nJc3GGuikpOV+uz9D9Q2DfTpHucnhmga6tiWoLXJ9jxeUoJ6SyNP0N/cCA==" />
+      <sparkle:criticalUpdate sparkle:version="135" />
+    </item>
+    <item>
       <title>1.3.7</title>
       <pubDate>Thu, 22 Oct 2026 17:57:00 +0000</pubDate>
       <sparkle:version>138</sparkle:version>

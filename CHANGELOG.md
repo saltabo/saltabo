@@ -3,6 +3,13 @@
 All notable changes to [Saltabo](https://saltabo.app), newest first.
 Downloads: https://github.com/saltabo/saltabo/releases
 
+## [1.3.8] - 2026-10-23
+
+### Improved
+- **One look for every switcher style.** App icons and List now use the same frosted cards, selection outline and rounded corners as Thumbnails.
+- **App icons:** the close and minimize buttons sit in the top-right corner, like on thumbnails, and the minimized/hidden badge moves to the top-left.
+- **List:** tighter padding, larger app icons and easier-to-read window names.
+
 ## [1.3.7] - 2026-10-22
 
 ### Improved
