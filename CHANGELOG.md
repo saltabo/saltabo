@@ -3,6 +3,11 @@
 All notable changes to [Saltabo](https://saltabo.app), newest first.
 Downloads: https://github.com/saltabo/saltabo/releases
 
+## [1.3.9] - 2026-10-27
+
+### Fixes
+- **License:** Saltabo Pro is a yearly subscription, so the License tab no longer says "Never expires". It shows the renewal date, or just "Active" until the date is known.
+
 ## [1.3.8] - 2026-10-23
 
 ### Improved
