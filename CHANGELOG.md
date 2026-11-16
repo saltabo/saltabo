@@ -3,6 +3,13 @@
 All notable changes to [Saltabo](https://saltabo.app), newest first.
 Downloads: https://github.com/saltabo/saltabo/releases
 
+## [1.4.0] - 2026-11-16
+
+### Improved
+- **Lighter on CPU and battery.** Hovering the Dock checks icons with far fewer system calls, and Saltabo no longer wakes your Mac several times a second while the pointer is away from the Dock.
+- **Less memory.** Window thumbnails now share a fixed memory budget, thumbnails of closed windows are cleared, and quick app switching no longer re-captures every window.
+- **Smoother switcher.** While the switcher is open, window updates are read in the background, so an unresponsive app can no longer make it stutter.
+
 ## [1.3.9] - 2026-10-27
 
 ### Fixes

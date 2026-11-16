@@ -6,6 +6,65 @@
     <description>Latest releases for Saltabo</description>
     <language>en</language>
     <item>
+      <title>1.4.0</title>
+      <pubDate>Mon, 16 Nov 2026 04:36:27 +0000</pubDate>
+      <sparkle:version>141</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown" xml:lang="en">### Improved
+- **Lighter on CPU and battery.** Hovering the Dock checks icons with far fewer system calls, and Saltabo no longer wakes your Mac several times a second while the pointer is away from the Dock.
+- **Less memory.** Window thumbnails now share a fixed memory budget, thumbnails of closed windows are cleared, and quick app switching no longer re-captures every window.
+- **Smoother switcher.** While the switcher is open, window updates are read in the background, so an unresponsive app can no longer make it stutter.
+</description>
+      <description xml:lang="de" sparkle:format="markdown">### Verbessert
+- **Schont CPU und Akku.** Beim Bewegen über das Dock werden die Symbole mit deutlich weniger Systemaufrufen geprüft, und Saltabo weckt deinen Mac nicht mehr mehrmals pro Sekunde, wenn der Zeiger nicht am Dock ist.
+- **Weniger Speicher.** Fenster-Miniaturen teilen sich jetzt ein festes Speicherbudget, Miniaturen geschlossener Fenster werden entfernt, und schnelles Wechseln zwischen Apps nimmt nicht mehr jedes Fenster neu auf.
+- **Flüssigerer Umschalter.** Solange der Umschalter offen ist, werden Fensteränderungen im Hintergrund gelesen, sodass eine nicht reagierende App ihn nicht mehr ins Stocken bringt.
+</description>
+      <description xml:lang="es" sparkle:format="markdown">### Mejoras
+- **Menos consumo de CPU y batería.** Al pasar por el Dock, los iconos se comprueban con muchas menos llamadas al sistema, y Saltabo ya no despierta tu Mac varias veces por segundo cuando el puntero está lejos del Dock.
+- **Menos memoria.** Las miniaturas de ventanas comparten ahora un presupuesto de memoria fijo, se eliminan las de ventanas cerradas y cambiar rápido de app ya no vuelve a capturar todas las ventanas.
+- **Selector más fluido.** Mientras el selector está abierto, los cambios de ventanas se leen en segundo plano, así que una app que no responde ya no lo hace ir a tirones.
+</description>
+      <description xml:lang="fr" sparkle:format="markdown">### Améliorations
+- **Plus léger pour le processeur et la batterie.** Le survol du Dock vérifie les icônes avec beaucoup moins d’appels système, et Saltabo ne réveille plus votre Mac plusieurs fois par seconde quand le pointeur est loin du Dock.
+- **Moins de mémoire.** Les vignettes de fenêtres partagent désormais un budget mémoire fixe, celles des fenêtres fermées sont supprimées, et passer vite d’une app à l’autre ne recapture plus toutes les fenêtres.
+- **Sélecteur plus fluide.** Pendant que le sélecteur est ouvert, les changements de fenêtres sont lus en arrière-plan : une app qui ne répond pas ne peut plus le faire saccader.
+</description>
+      <description xml:lang="it" sparkle:format="markdown">### Miglioramenti
+- **Più leggero su CPU e batteria.** Passando sul Dock le icone vengono controllate con molte meno chiamate di sistema, e Saltabo non risveglia più il Mac più volte al secondo quando il puntatore è lontano dal Dock.
+- **Meno memoria.** Le miniature delle finestre condividono ora un budget di memoria fisso, quelle delle finestre chiuse vengono eliminate e passare velocemente tra le app non ricattura più tutte le finestre.
+- **Selettore più fluido.** Mentre il selettore è aperto, le modifiche alle finestre vengono lette in background, così un'app che non risponde non può più farlo scattare.
+</description>
+      <description xml:lang="ja" sparkle:format="markdown">### 改善点
+- **CPU とバッテリーへの負荷を軽減。** Dock 上でポインタを動かしたときのアイコン判定に使うシステム呼び出しを大幅に減らし、ポインタが Dock から離れているときに Mac を毎秒何度も起こさないようにしました。
+- **メモリ使用量を削減。** ウインドウのサムネイルは決まったメモリ量の範囲で保持し、閉じたウインドウのサムネイルは削除します。アプリを素早く切り替えても、すべてのウインドウを撮り直さなくなりました。
+- **スイッチャーがより滑らかに。** スイッチャーを開いている間のウインドウの変化はバックグラウンドで読み取るため、応答しないアプリがあってもカクつかなくなりました。
+</description>
+      <description xml:lang="ko" sparkle:format="markdown">### 개선 사항
+- **CPU와 배터리 부담 감소.** Dock 위에서 포인터를 움직일 때 아이콘 확인에 쓰는 시스템 호출을 크게 줄였고, 포인터가 Dock에서 떨어져 있을 때 Mac을 초당 여러 번 깨우지 않습니다.
+- **메모리 사용량 감소.** 윈도우 썸네일은 정해진 메모리 한도 안에서 보관하고, 닫힌 윈도우의 썸네일은 지웁니다. 앱을 빠르게 전환해도 모든 윈도우를 다시 캡처하지 않습니다.
+- **더 매끄러운 스위처.** 스위처가 열려 있는 동안 윈도우 변경 사항을 백그라운드에서 읽으므로, 응답하지 않는 앱이 있어도 끊기지 않습니다.
+</description>
+      <description xml:lang="pt" sparkle:format="markdown">### Melhorias
+- **Mais leve para CPU e bateria.** Ao passar pelo Dock, os ícones são verificados com muito menos chamadas ao sistema, e o Saltabo não acorda mais o Mac várias vezes por segundo quando o ponteiro está longe do Dock.
+- **Menos memória.** As miniaturas de janelas agora compartilham um orçamento de memória fixo, as de janelas fechadas são removidas e alternar rápido entre apps não recaptura mais todas as janelas.
+- **Alternador mais fluido.** Enquanto o alternador está aberto, as mudanças nas janelas são lidas em segundo plano, então um app que não responde não o faz mais travar.
+</description>
+      <description xml:lang="vi" sparkle:format="markdown">### Cải thiện
+- **Nhẹ hơn cho CPU và pin.** Khi rê chuột trên Dock, app kiểm tra icon với ít lời gọi hệ thống hơn nhiều, và Saltabo không còn đánh thức máy Mac nhiều lần mỗi giây khi con trỏ ở xa Dock.
+- **Tốn ít bộ nhớ hơn.** Thumbnail cửa sổ giờ dùng chung một giới hạn bộ nhớ cố định, thumbnail của cửa sổ đã đóng được xoá, và chuyển app nhanh không còn chụp lại mọi cửa sổ.
+- **Switcher mượt hơn.** Khi switcher đang mở, thay đổi cửa sổ được đọc ở nền, nên một app bị treo không còn làm switcher khựng.
+</description>
+      <description xml:lang="zh-Hans" sparkle:format="markdown">### 改进
+- **更省 CPU 和电量。** 鼠标悬停在程序坞上时，检查图标所需的系统调用大幅减少；指针离开程序坞时，Saltabo 不再每秒多次唤醒你的 Mac。
+- **占用内存更少。** 窗口缩略图现在共用固定的内存额度，已关闭窗口的缩略图会被清除，快速切换应用时也不再重新截取所有窗口。
+- **切换器更流畅。** 切换器打开期间，窗口变化在后台读取，无响应的应用不会再让它卡顿。
+</description>
+      <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.4.0/Saltabo.zip" length="4893732" type="application/octet-stream" sparkle:edSignature="UiAyiXdXnKIpER7bzVYG4hL740TLaPS472bDThV0qMf/UhCppRltbBaLcFlCdnbJMKl9zZh8AWNMIghEsLvmBA==" />
+      <sparkle:criticalUpdate sparkle:version="135" />
+    </item>
+    <item>
       <title>1.3.9</title>
       <pubDate>Tue, 27 Oct 2026 16:37:08 +0000</pubDate>
       <sparkle:version>140</sparkle:version>
